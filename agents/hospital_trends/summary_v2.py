@@ -103,25 +103,22 @@ if __name__ == "__main__":
     hospital_utilization_agent = ToolCallingAgent(tools=[extract_hospital_utilization], model=model,name="hospital_utilization_agent",description="Analyzes hospital utilization trends for US")
 
     print("\n🔍 **Final Research Summary:**")
-    state="Illinois"
-    hospital_beds_result = hospital_beds_agent.run(f"""
-    You are a data analyst tasked with generating a comprehensive report on how for the {state} in US community hospital beds trends follow.
-    Follow the tool to gather any necessary information and data, then create a detailed markdown report:
-    - Rules 
-        - Do not generate any data use only the mentioned csv file
-        - Try and relate the data to the state and how it affected the state
-    """)
-
+    
     manager_agent = CodeAgent(
     tools=[],
     model=model,
     managed_agents=[hospital_beds_agent,emergency_visits_agent,hospital_utilization_agent],
     additional_authorized_imports=["time", "numpy", "pandas","pypdf","os"]
     )
-    print(f"Hospital Beds Result: {hospital_beds_result}")
-
-    answer = manager_agent.run("""
-    Generates a summary report combining hospital bed trends, emergency visits, and utilization insights.
+    
+    state="California"
+    answer = manager_agent.run(f"""
+    You are a data analyst tasked with generating a comprehensive report on how for the {state} in US community hospital beds trends follow.
+    Follow the tool to gather any necessary information and data, then create a detailed markdown report:
+    - Rules 
+        - Use all three tools avaiable to build additional context and final report generation
+        - Do not generate any data use only the mentioned csv file
+        - Try and relate the data to the state and how it affected the state
 
     Parameters:
         hospital_beds (str): Summary of hospital bed trends.
@@ -129,10 +126,3 @@ if __name__ == "__main__":
     Returns:
         str: A structured summary report.
     """)
-    
-
-    # emergency_visits_result = emergency_visits_agent.run("Analyze emergency department visits.")
-    # print(f"Emergency Visits Result: {emergency_visits_result}")
-
-    # hospital_utilization_result = hospital_utilization_agent.run("Extract insights from the research paper.")
-    # print(f"Hospital Utilization Result: {hospital_utilization_result}")
