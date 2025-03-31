@@ -52,7 +52,7 @@ agent = CodeAgent(
     tools=[query_snowflake],
     model=model,
     max_steps=10,
-    additional_authorized_imports=['pandas'],
+    additional_authorized_imports=['pandas','snowflake.connector'],
     verbosity_level=2,
 )
 
@@ -61,7 +61,7 @@ agent = CodeAgent(
 agent_output = agent.run(f"""
 I have provided you my snowflake connectivity credentials use them and execute query in Snowflake Table 
 Use this query to get the details about the numbers of year-over-year COVID-19 cases and deaths for U.S. states
-Understand the numbers and provide me a comprehensive detail report for each year's dataset from the output:
+Just provide me the numbers each year's dataset from the output:
 WITH state_agg AS 
 (
     SELECT 
