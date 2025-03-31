@@ -1,10 +1,10 @@
 import os
 import pandas as pd
 from pypdf import PdfReader
-from smolagents import CodeAgent, LiteLLMModel, tool
+from smolagents import CodeAgent, LiteLLMModel, ToolCallingAgent, tool
 
 # Define the directory containing the data files
-DATA_DIRECTORY = "./prototype/hospitalization_trends_data"
+DATA_DIRECTORY = "./agents/hospital_trends/data"
 
 ### 1️⃣ Agent: Analyze Hospital Bed Data (CSV)
 @tool
@@ -41,101 +41,56 @@ def analyze_hospital_beds() -> str:
 ### 2️⃣ Agent: Analyze Emergency Department Visits (PDF)
 @tool
 def analyze_emergency_visits() -> str:
-    """Analyzes emergency department visits from a PDF file."""
+    """
+    Reads the first three pages of a PDF file from the local directory and returns its content as a string.
+    """
     file_path = os.path.join(DATA_DIRECTORY, "EmergencyDepartment_Visits.pdf")
 
     if not os.path.exists(file_path):
-        return f"Error: File '{file_path}' not found."
+        return f"Error: File '{file_path}' not found. Please check the directory."
 
     reader = PdfReader(file_path)
     
+    # Check number of pages
     total_pages = len(reader.pages)
+    print(f"Total pages in PDF: {total_pages}")
+
     pages_to_read = min(2, total_pages)
-    
-    content = "\n\n".join(reader.pages[i].extract_text() for i in range(pages_to_read) if reader.pages[i].extract_text())
-
-    return content if content else "Error: Unable to extract text from the PDF."
-
-
-from pypdf import PdfReader
-import os
-
-@tool
-def extract_hospital_utilization() -> str:
-    """Extracts key insights from the first two pages of a hospital utilization research paper (PDF)."""
-    
-    file_path = os.path.join(DATA_DIRECTORY, "HospitalUtilization.pdf")
-    
-    if not os.path.exists(file_path):
-        return f"Error: File '{file_path}' not found."
-
-    # Reading the PDF
-    reader = PdfReader(file_path)
-    
-    # Total pages in the PDF
-    total_pages = len(reader.pages)
-    
-    # Ensure we are reading only the first 2 pages (or fewer if not available)
-    pages_to_read = min(2, total_pages)
-    
-    # Initialize an empty string to store the content
     content = ""
     
-    # Loop through the pages and extract the text
     for i in range(pages_to_read):
         page = reader.pages[i]
-        page_text = page.extract_text()
-        
-        # If text is found, append it; otherwise, note that the page has no text
-        if page_text:
-            content += page_text + "\n\n"
-        else:
-            content += f"Error: No text found on page {i+1}.\n"
-    
-    # Return the content or a fallback message if no content was extracted
+        content += page.extract_text() + "\n\n"
+
     return content if content else "Error: Unable to extract text from the PDF."
 
 
 
-### 4️⃣ Agent: Generate Summary Report
+### 3️⃣ Agent: Extract Hospital Utilization Data (PDF)
 @tool
-def summarize_findings(
-    hospital_beds_result: str,
-    emergency_visits_result: str,
-    hospital_utilization_result: str
-) -> str:
+def extract_hospital_utilization() -> str:
     """
-    Summarizes key findings from the three research analyses.
-
-    Args:
-        hospital_beds_result (str): The analysis result of hospital bed trends, including average annual change, total change, start year, end year, etc.
-        emergency_visits_result (str): The analysis result of emergency department visits, typically extracted from a PDF, containing trends and insights.
-        hospital_utilization_result (str): Extracted insights from the hospital utilization research paper, summarizing key data and findings.
-
-    Returns:
-        str: A compiled research summary based on the provided analyses, structured in a readable format.
+    Reads the first three pages of a PDF file from the local directory and returns its content as a string.
     """
+    file_path = os.path.join(DATA_DIRECTORY, "HospitalUtilization.pdf")
 
-    summary = f"""
-    ### 📊 Final Research Summary ###
+    if not os.path.exists(file_path):
+        return f"Error: File '{file_path}' not found. Please check the directory."
 
-    🏥 **Hospital Bed Trends (CSV Data)**:
-    {hospital_beds_result}
+    reader = PdfReader(file_path)
+    
+    # Check number of pages
+    total_pages = len(reader.pages)
+    print(f"Total pages in PDF: {total_pages}")
 
-    🚑 **Emergency Department Visits (PDF Data)**:
-    {emergency_visits_result}
+    pages_to_read = min(2, total_pages)
+    content = ""
+    
+    for i in range(pages_to_read):
+        page = reader.pages[i]
+        content += page.extract_text() + "\n\n"
 
-    📄 **Hospital Utilization Research (PDF Data)**:
-    {hospital_utilization_result}
-
-    📌 **Conclusion**:
-    - Hospital bed availability varies across states.
-    - Emergency department visits show demographic trends.
-    - The research paper provides deeper insights into hospital utilization patterns.
-    """
-    return summary
-
-
+    return content if content else "Error: Unable to extract text from the PDF."
 
 ### **🔹 Running the Agents to Generate the Final Report**
 if __name__ == "__main__":
@@ -143,19 +98,41 @@ if __name__ == "__main__":
     model = LiteLLMModel(model_id="xai/grok-2-1212", api_key=os.getenv("XAI_API_KEY"))
 
     # Create and run agents
-    hospital_beds_agent = CodeAgent(tools=[analyze_hospital_beds], model=model)
-    # emergency_visits_agent = CodeAgent(tools=[analyze_emergency_visits], model=model)
-    # hospital_utilization_agent = CodeAgent(tools=[extract_hospital_utilization], model=model)
-
-    hospital_beds_result = hospital_beds_agent.run("Analyze hospital bed trends.")
-    # emergency_visits_result = emergency_visits_agent.run("Analyze emergency department visits.")
-    # hospital_utilization_result = hospital_utilization_agent.run("Extract insights from the research paper.")
-
-    # Generate the final summary report
-    summary_agent = CodeAgent(tools=[summarize_findings], model=model)
-    final_report = summary_agent.run(
-        f"Summarize the research findings:\n\n{hospital_beds_result}"
-    )
+    hospital_beds_agent = ToolCallingAgent(tools=[analyze_hospital_beds], model=model,name="hospital_beds_agent",description="Analyzes Community hospital bed availability trends")
+    emergency_visits_agent = ToolCallingAgent(tools=[analyze_emergency_visits], model=model,name="emergency_visits_agent",description="Analyzes Emergency department visits trends for US")
+    hospital_utilization_agent = ToolCallingAgent(tools=[extract_hospital_utilization], model=model,name="hospital_utilization_agent",description="Analyzes hospital utilization trends for US")
 
     print("\n🔍 **Final Research Summary:**")
-    print(final_report)
+    state="Illinois"
+    hospital_beds_result = hospital_beds_agent.run(f"""
+    You are a data analyst tasked with generating a comprehensive report on how for the {state} in US community hospital beds trends follow.
+    Follow the tool to gather any necessary information and data, then create a detailed markdown report:
+    - Rules 
+        - Do not generate any data use only the mentioned csv file
+        - Try and relate the data to the state and how it affected the state
+    """)
+
+    manager_agent = CodeAgent(
+    tools=[],
+    model=model,
+    managed_agents=[hospital_beds_agent,emergency_visits_agent,hospital_utilization_agent],
+    additional_authorized_imports=["time", "numpy", "pandas","pypdf","os"]
+    )
+    print(f"Hospital Beds Result: {hospital_beds_result}")
+
+    answer = manager_agent.run("""
+    Generates a summary report combining hospital bed trends, emergency visits, and utilization insights.
+
+    Parameters:
+        hospital_beds (str): Summary of hospital bed trends.
+
+    Returns:
+        str: A structured summary report.
+    """)
+    
+
+    # emergency_visits_result = emergency_visits_agent.run("Analyze emergency department visits.")
+    # print(f"Emergency Visits Result: {emergency_visits_result}")
+
+    # hospital_utilization_result = hospital_utilization_agent.run("Extract insights from the research paper.")
+    # print(f"Hospital Utilization Result: {hospital_utilization_result}")
