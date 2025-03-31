@@ -1,0 +1,625 @@
+﻿TOPIC,SUBTOPIC,SUBTOPIC_ID,CLASSIFICATION,CLASSIFICATION_ID,GROUP,GROUP_ID,GROUP_ORDER,SUBGROUP,SUBGROUP_ID,SUBGROUP_ORDER,ESTIMATE_TYPE,ESTIMATE_TYPE_ID,TIME_PERIOD,TIME_PERIOD_ID,ESTIMATE,STANDARD_ERROR,FLAG,FOOTNOTE_ID_LIST,STATE_FIPS
+Community hospital beds,,,Total,0,Total,0,0,United States,0,0,"Beds per 1,000 resident population",1,1980,1,4.5,,,"FN0466,NT0064,SC0056,NT9999",0
+Community hospital beds,,,Total,0,Total,0,0,United States,0,0,"Beds per 1,000 resident population",1,1990,2,3.7,,,"FN0466,NT0064,SC0056,NT9999",0
+Community hospital beds,,,Total,0,Total,0,0,United States,0,0,"Beds per 1,000 resident population",1,2000,3,2.9,,,"FN0466,NT0064,SC0056,NT9999",0
+Community hospital beds,,,Total,0,Total,0,0,United States,0,0,"Beds per 1,000 resident population",1,2009,4,2.6,,,"FN0466,NT0064,SC0056,NT9999",0
+Community hospital beds,,,Total,0,Total,0,0,United States,0,0,"Beds per 1,000 resident population",1,2010,5,2.6,,,"FN0466,NT0064,SC0056,NT9999",0
+Community hospital beds,,,Total,0,Total,0,0,United States,0,0,"Beds per 1,000 resident population",1,2014,6,2.5,,,"FN0466,NT0064,SC0056,NT9999",0
+Community hospital beds,,,Total,0,Total,0,0,United States,0,0,"Beds per 1,000 resident population",1,2015,7,2.4,,,"FN0466,NT0064,SC0056,NT9999",0
+Community hospital beds,,,Total,0,Total,0,0,United States,0,0,"Beds per 1,000 resident population",1,2016,8,2.5,,,"FN0466,NT0064,SC0056,NT9999",0
+Community hospital beds,,,Total,0,Total,0,0,United States,0,0,"Beds per 1,000 resident population",1,2017,9,2.5,,,"FN0466,NT0064,SC0056,NT9999",0
+Community hospital beds,,,Total,0,Total,0,0,United States,0,0,"Beds per 1,000 resident population",1,2018,10,2.4,,,"FN0466,NT0064,SC0056,NT9999",0
+Community hospital beds,,,Total,0,Total,0,0,United States,0,0,"Beds per 1,000 resident population",1,2019,11,2.4,,,"FN0466,NT0064,SC0056,NT9999",0
+Community hospital beds,,,Total,0,Total,0,0,United States,0,0,"Beds per 1,000 resident population",1,2020,12,2.4,,,"FN0466,NT0064,SC0056,NT9999",0
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Alabama,1,1,"Beds per 1,000 resident population",1,1980,1,5.1,,,"FN0466,NT0064,SC0056,NT9999",1
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Alabama,1,1,"Beds per 1,000 resident population",1,1990,2,4.6,,,"FN0466,NT0064,SC0056,NT9999",1
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Alabama,1,1,"Beds per 1,000 resident population",1,2000,3,3.7,,,"FN0466,NT0064,SC0056,NT9999",1
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Alabama,1,1,"Beds per 1,000 resident population",1,2009,4,3.2,,,"FN0466,NT0064,SC0056,NT9999",1
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Alabama,1,1,"Beds per 1,000 resident population",1,2010,5,3.2,,,"FN0466,NT0064,SC0056,NT9999",1
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Alabama,1,1,"Beds per 1,000 resident population",1,2014,6,3.1,,,"FN0466,NT0064,SC0056,NT9999",1
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Alabama,1,1,"Beds per 1,000 resident population",1,2015,7,3,,,"FN0466,NT0064,SC0056,NT9999",1
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Alabama,1,1,"Beds per 1,000 resident population",1,2016,8,3.2,,,"FN0466,NT0064,SC0056,NT9999",1
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Alabama,1,1,"Beds per 1,000 resident population",1,2017,9,3.1,,,"FN0466,NT0064,SC0056,NT9999",1
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Alabama,1,1,"Beds per 1,000 resident population",1,2018,10,3.1,,,"FN0466,NT0064,SC0056,NT9999",1
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Alabama,1,1,"Beds per 1,000 resident population",1,2019,11,3.1,,,"FN0466,NT0064,SC0056,NT9999",1
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Alabama,1,1,"Beds per 1,000 resident population",1,2020,12,3.1,,,"FN0466,NT0064,SC0056,NT9999",1
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Alaska,2,2,"Beds per 1,000 resident population",1,1980,1,2.7,,,"FN0466,NT0064,SC0056,NT9999",2
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Alaska,2,2,"Beds per 1,000 resident population",1,1990,2,2.3,,,"FN0466,NT0064,SC0056,NT9999",2
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Alaska,2,2,"Beds per 1,000 resident population",1,2000,3,2.3,,,"FN0466,NT0064,SC0056,NT9999",2
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Alaska,2,2,"Beds per 1,000 resident population",1,2009,4,2.2,,,"FN0466,NT0064,SC0056,NT9999",2
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Alaska,2,2,"Beds per 1,000 resident population",1,2010,5,2.2,,,"FN0466,NT0064,SC0056,NT9999",2
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Alaska,2,2,"Beds per 1,000 resident population",1,2014,6,2.2,,,"FN0466,NT0064,SC0056,NT9999",2
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Alaska,2,2,"Beds per 1,000 resident population",1,2015,7,2.2,,,"FN0466,NT0064,SC0056,NT9999",2
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Alaska,2,2,"Beds per 1,000 resident population",1,2016,8,2.2,,,"FN0466,NT0064,SC0056,NT9999",2
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Alaska,2,2,"Beds per 1,000 resident population",1,2017,9,2.2,,,"FN0466,NT0064,SC0056,NT9999",2
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Alaska,2,2,"Beds per 1,000 resident population",1,2018,10,2.2,,,"FN0466,NT0064,SC0056,NT9999",2
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Alaska,2,2,"Beds per 1,000 resident population",1,2019,11,2.2,,,"FN0466,NT0064,SC0056,NT9999",2
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Alaska,2,2,"Beds per 1,000 resident population",1,2020,12,2.2,,,"FN0466,NT0064,SC0056,NT9999",2
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Arizona,3,3,"Beds per 1,000 resident population",1,1980,1,3.6,,,"FN0466,NT0064,SC0056,NT9999",4
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Arizona,3,3,"Beds per 1,000 resident population",1,1990,2,2.7,,,"FN0466,NT0064,SC0056,NT9999",4
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Arizona,3,3,"Beds per 1,000 resident population",1,2000,3,2.1,,,"FN0466,NT0064,SC0056,NT9999",4
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Arizona,3,3,"Beds per 1,000 resident population",1,2009,4,2,,,"FN0466,NT0064,SC0056,NT9999",4
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Arizona,3,3,"Beds per 1,000 resident population",1,2010,5,2,,,"FN0466,NT0064,SC0056,NT9999",4
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Arizona,3,3,"Beds per 1,000 resident population",1,2014,6,2,,,"FN0466,NT0064,SC0056,NT9999",4
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Arizona,3,3,"Beds per 1,000 resident population",1,2015,7,2,,,"FN0466,NT0064,SC0056,NT9999",4
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Arizona,3,3,"Beds per 1,000 resident population",1,2016,8,2,,,"FN0466,NT0064,SC0056,NT9999",4
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Arizona,3,3,"Beds per 1,000 resident population",1,2017,9,2,,,"FN0466,NT0064,SC0056,NT9999",4
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Arizona,3,3,"Beds per 1,000 resident population",1,2018,10,1.9,,,"FN0466,NT0064,SC0056,NT9999",4
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Arizona,3,3,"Beds per 1,000 resident population",1,2019,11,1.9,,,"FN0466,NT0064,SC0056,NT9999",4
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Arizona,3,3,"Beds per 1,000 resident population",1,2020,12,1.9,,,"FN0466,NT0064,SC0056,NT9999",4
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Arkansas,4,4,"Beds per 1,000 resident population",1,1980,1,5,,,"FN0466,NT0064,SC0056,NT9999",5
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Arkansas,4,4,"Beds per 1,000 resident population",1,1990,2,4.6,,,"FN0466,NT0064,SC0056,NT9999",5
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Arkansas,4,4,"Beds per 1,000 resident population",1,2000,3,3.7,,,"FN0466,NT0064,SC0056,NT9999",5
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Arkansas,4,4,"Beds per 1,000 resident population",1,2009,4,3.3,,,"FN0466,NT0064,SC0056,NT9999",5
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Arkansas,4,4,"Beds per 1,000 resident population",1,2010,5,3.2,,,"FN0466,NT0064,SC0056,NT9999",5
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Arkansas,4,4,"Beds per 1,000 resident population",1,2014,6,3.1,,,"FN0466,NT0064,SC0056,NT9999",5
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Arkansas,4,4,"Beds per 1,000 resident population",1,2015,7,3.1,,,"FN0466,NT0064,SC0056,NT9999",5
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Arkansas,4,4,"Beds per 1,000 resident population",1,2016,8,3.2,,,"FN0466,NT0064,SC0056,NT9999",5
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Arkansas,4,4,"Beds per 1,000 resident population",1,2017,9,3.2,,,"FN0466,NT0064,SC0056,NT9999",5
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Arkansas,4,4,"Beds per 1,000 resident population",1,2018,10,3.2,,,"FN0466,NT0064,SC0056,NT9999",5
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Arkansas,4,4,"Beds per 1,000 resident population",1,2019,11,3,,,"FN0466,NT0064,SC0056,NT9999",5
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Arkansas,4,4,"Beds per 1,000 resident population",1,2020,12,3.1,,,"FN0466,NT0064,SC0056,NT9999",5
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,California,5,5,"Beds per 1,000 resident population",1,1980,1,3.6,,,"FN0466,NT0064,SC0056,NT9999",6
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,California,5,5,"Beds per 1,000 resident population",1,1990,2,2.7,,,"FN0466,NT0064,SC0056,NT9999",6
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,California,5,5,"Beds per 1,000 resident population",1,2000,3,2.1,,,"FN0466,NT0064,SC0056,NT9999",6
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,California,5,5,"Beds per 1,000 resident population",1,2009,4,1.9,,,"FN0466,NT0064,SC0056,NT9999",6
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,California,5,5,"Beds per 1,000 resident population",1,2010,5,1.9,,,"FN0466,NT0064,SC0056,NT9999",6
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,California,5,5,"Beds per 1,000 resident population",1,2014,6,1.8,,,"FN0466,NT0064,SC0056,NT9999",6
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,California,5,5,"Beds per 1,000 resident population",1,2015,7,1.8,,,"FN0466,NT0064,SC0056,NT9999",6
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,California,5,5,"Beds per 1,000 resident population",1,2016,8,1.8,,,"FN0466,NT0064,SC0056,NT9999",6
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,California,5,5,"Beds per 1,000 resident population",1,2017,9,1.9,,,"FN0466,NT0064,SC0056,NT9999",6
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,California,5,5,"Beds per 1,000 resident population",1,2018,10,1.8,,,"FN0466,NT0064,SC0056,NT9999",6
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,California,5,5,"Beds per 1,000 resident population",1,2019,11,1.9,,,"FN0466,NT0064,SC0056,NT9999",6
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,California,5,5,"Beds per 1,000 resident population",1,2020,12,1.8,,,"FN0466,NT0064,SC0056,NT9999",6
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Colorado,6,6,"Beds per 1,000 resident population",1,1980,1,4.2,,,"FN0466,NT0064,SC0056,NT9999",8
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Colorado,6,6,"Beds per 1,000 resident population",1,1990,2,3.2,,,"FN0466,NT0064,SC0056,NT9999",8
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Colorado,6,6,"Beds per 1,000 resident population",1,2000,3,2.2,,,"FN0466,NT0064,SC0056,NT9999",8
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Colorado,6,6,"Beds per 1,000 resident population",1,2009,4,2.1,,,"FN0466,NT0064,SC0056,NT9999",8
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Colorado,6,6,"Beds per 1,000 resident population",1,2010,5,2,,,"FN0466,NT0064,SC0056,NT9999",8
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Colorado,6,6,"Beds per 1,000 resident population",1,2014,6,2,,,"FN0466,NT0064,SC0056,NT9999",8
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Colorado,6,6,"Beds per 1,000 resident population",1,2015,7,1.9,,,"FN0466,NT0064,SC0056,NT9999",8
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Colorado,6,6,"Beds per 1,000 resident population",1,2016,8,2,,,"FN0466,NT0064,SC0056,NT9999",8
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Colorado,6,6,"Beds per 1,000 resident population",1,2017,9,1.9,,,"FN0466,NT0064,SC0056,NT9999",8
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Colorado,6,6,"Beds per 1,000 resident population",1,2018,10,1.9,,,"FN0466,NT0064,SC0056,NT9999",8
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Colorado,6,6,"Beds per 1,000 resident population",1,2019,11,1.9,,,"FN0466,NT0064,SC0056,NT9999",8
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Colorado,6,6,"Beds per 1,000 resident population",1,2020,12,1.9,,,"FN0466,NT0064,SC0056,NT9999",8
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Connecticut,7,7,"Beds per 1,000 resident population",1,1980,1,3.5,,,"FN0466,NT0064,SC0056,NT9999",9
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Connecticut,7,7,"Beds per 1,000 resident population",1,1990,2,2.9,,,"FN0466,NT0064,SC0056,NT9999",9
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Connecticut,7,7,"Beds per 1,000 resident population",1,2000,3,2.3,,,"FN0466,NT0064,SC0056,NT9999",9
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Connecticut,7,7,"Beds per 1,000 resident population",1,2009,4,2.3,,,"FN0466,NT0064,SC0056,NT9999",9
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Connecticut,7,7,"Beds per 1,000 resident population",1,2010,5,2.3,,,"FN0466,NT0064,SC0056,NT9999",9
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Connecticut,7,7,"Beds per 1,000 resident population",1,2014,6,2.2,,,"FN0466,NT0064,SC0056,NT9999",9
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Connecticut,7,7,"Beds per 1,000 resident population",1,2015,7,2.1,,,"FN0466,NT0064,SC0056,NT9999",9
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Connecticut,7,7,"Beds per 1,000 resident population",1,2016,8,2,,,"FN0466,NT0064,SC0056,NT9999",9
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Connecticut,7,7,"Beds per 1,000 resident population",1,2017,9,2,,,"FN0466,NT0064,SC0056,NT9999",9
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Connecticut,7,7,"Beds per 1,000 resident population",1,2018,10,2,,,"FN0466,NT0064,SC0056,NT9999",9
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Connecticut,7,7,"Beds per 1,000 resident population",1,2019,11,2,,,"FN0466,NT0064,SC0056,NT9999",9
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Connecticut,7,7,"Beds per 1,000 resident population",1,2020,12,2.1,,,"FN0466,NT0064,SC0056,NT9999",9
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Delaware,8,8,"Beds per 1,000 resident population",1,1980,1,3.6,,,"FN0466,NT0064,SC0056,NT9999",10
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Delaware,8,8,"Beds per 1,000 resident population",1,1990,2,3,,,"FN0466,NT0064,SC0056,NT9999",10
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Delaware,8,8,"Beds per 1,000 resident population",1,2000,3,2.3,,,"FN0466,NT0064,SC0056,NT9999",10
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Delaware,8,8,"Beds per 1,000 resident population",1,2009,4,2.4,,,"FN0466,NT0064,SC0056,NT9999",10
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Delaware,8,8,"Beds per 1,000 resident population",1,2010,5,2.4,,,"FN0466,NT0064,SC0056,NT9999",10
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Delaware,8,8,"Beds per 1,000 resident population",1,2014,6,2.2,,,"FN0466,NT0064,SC0056,NT9999",10
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Delaware,8,8,"Beds per 1,000 resident population",1,2015,7,2.2,,,"FN0466,NT0064,SC0056,NT9999",10
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Delaware,8,8,"Beds per 1,000 resident population",1,2016,8,2.2,,,"FN0466,NT0064,SC0056,NT9999",10
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Delaware,8,8,"Beds per 1,000 resident population",1,2017,9,2.2,,,"FN0466,NT0064,SC0056,NT9999",10
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Delaware,8,8,"Beds per 1,000 resident population",1,2018,10,2.2,,,"FN0466,NT0064,SC0056,NT9999",10
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Delaware,8,8,"Beds per 1,000 resident population",1,2019,11,2.2,,,"FN0466,NT0064,SC0056,NT9999",10
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Delaware,8,8,"Beds per 1,000 resident population",1,2020,12,2.2,,,"FN0466,NT0064,SC0056,NT9999",10
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,District of Columbia,9,9,"Beds per 1,000 resident population",1,1980,1,7.3,,,"FN0466,NT0064,SC0056,NT9999",11
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,District of Columbia,9,9,"Beds per 1,000 resident population",1,1990,2,7.6,,,"FN0466,NT0064,SC0056,NT9999",11
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,District of Columbia,9,9,"Beds per 1,000 resident population",1,2000,3,5.8,,,"FN0466,NT0064,SC0056,NT9999",11
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,District of Columbia,9,9,"Beds per 1,000 resident population",1,2009,4,5.8,,,"FN0466,NT0064,SC0056,NT9999",11
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,District of Columbia,9,9,"Beds per 1,000 resident population",1,2010,5,5.7,,,"FN0466,NT0064,SC0056,NT9999",11
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,District of Columbia,9,9,"Beds per 1,000 resident population",1,2014,6,5.4,,,"FN0466,NT0064,SC0056,NT9999",11
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,District of Columbia,9,9,"Beds per 1,000 resident population",1,2015,7,5.3,,,"FN0466,NT0064,SC0056,NT9999",11
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,District of Columbia,9,9,"Beds per 1,000 resident population",1,2016,8,5.1,,,"FN0466,NT0064,SC0056,NT9999",11
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,District of Columbia,9,9,"Beds per 1,000 resident population",1,2017,9,5.1,,,"FN0466,NT0064,SC0056,NT9999",11
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,District of Columbia,9,9,"Beds per 1,000 resident population",1,2018,10,4.4,,,"FN0466,NT0064,SC0056,NT9999",11
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,District of Columbia,9,9,"Beds per 1,000 resident population",1,2019,11,4.5,,,"FN0466,NT0064,SC0056,NT9999",11
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,District of Columbia,9,9,"Beds per 1,000 resident population",1,2020,12,4.6,,,"FN0466,NT0064,SC0056,NT9999",11
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Florida,10,10,"Beds per 1,000 resident population",1,1980,1,5.1,,,"FN0466,NT0064,SC0056,NT9999",12
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Florida,10,10,"Beds per 1,000 resident population",1,1990,2,3.9,,,"FN0466,NT0064,SC0056,NT9999",12
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Florida,10,10,"Beds per 1,000 resident population",1,2000,3,3.2,,,"FN0466,NT0064,SC0056,NT9999",12
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Florida,10,10,"Beds per 1,000 resident population",1,2009,4,2.9,,,"FN0466,NT0064,SC0056,NT9999",12
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Florida,10,10,"Beds per 1,000 resident population",1,2010,5,2.9,,,"FN0466,NT0064,SC0056,NT9999",12
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Florida,10,10,"Beds per 1,000 resident population",1,2014,6,2.7,,,"FN0466,NT0064,SC0056,NT9999",12
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Florida,10,10,"Beds per 1,000 resident population",1,2015,7,2.6,,,"FN0466,NT0064,SC0056,NT9999",12
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Florida,10,10,"Beds per 1,000 resident population",1,2016,8,2.6,,,"FN0466,NT0064,SC0056,NT9999",12
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Florida,10,10,"Beds per 1,000 resident population",1,2017,9,2.6,,,"FN0466,NT0064,SC0056,NT9999",12
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Florida,10,10,"Beds per 1,000 resident population",1,2018,10,2.6,,,"FN0466,NT0064,SC0056,NT9999",12
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Florida,10,10,"Beds per 1,000 resident population",1,2019,11,2.6,,,"FN0466,NT0064,SC0056,NT9999",12
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Florida,10,10,"Beds per 1,000 resident population",1,2020,12,2.5,,,"FN0466,NT0064,SC0056,NT9999",12
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Georgia,11,11,"Beds per 1,000 resident population",1,1980,1,4.6,,,"FN0466,NT0064,SC0056,NT9999",13
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Georgia,11,11,"Beds per 1,000 resident population",1,1990,2,4,,,"FN0466,NT0064,SC0056,NT9999",13
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Georgia,11,11,"Beds per 1,000 resident population",1,2000,3,2.9,,,"FN0466,NT0064,SC0056,NT9999",13
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Georgia,11,11,"Beds per 1,000 resident population",1,2009,4,2.6,,,"FN0466,NT0064,SC0056,NT9999",13
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Georgia,11,11,"Beds per 1,000 resident population",1,2010,5,2.6,,,"FN0466,NT0064,SC0056,NT9999",13
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Georgia,11,11,"Beds per 1,000 resident population",1,2014,6,2.4,,,"FN0466,NT0064,SC0056,NT9999",13
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Georgia,11,11,"Beds per 1,000 resident population",1,2015,7,2.4,,,"FN0466,NT0064,SC0056,NT9999",13
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Georgia,11,11,"Beds per 1,000 resident population",1,2016,8,2.4,,,"FN0466,NT0064,SC0056,NT9999",13
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Georgia,11,11,"Beds per 1,000 resident population",1,2017,9,2.4,,,"FN0466,NT0064,SC0056,NT9999",13
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Georgia,11,11,"Beds per 1,000 resident population",1,2018,10,2.4,,,"FN0466,NT0064,SC0056,NT9999",13
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Georgia,11,11,"Beds per 1,000 resident population",1,2019,11,2.3,,,"FN0466,NT0064,SC0056,NT9999",13
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Georgia,11,11,"Beds per 1,000 resident population",1,2020,12,2.3,,,"FN0466,NT0064,SC0056,NT9999",13
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Hawaii,12,12,"Beds per 1,000 resident population",1,1980,1,3.1,,,"FN0466,NT0064,SC0056,NT9999",15
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Hawaii,12,12,"Beds per 1,000 resident population",1,1990,2,2.7,,,"FN0466,NT0064,SC0056,NT9999",15
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Hawaii,12,12,"Beds per 1,000 resident population",1,2000,3,2.5,,,"FN0466,NT0064,SC0056,NT9999",15
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Hawaii,12,12,"Beds per 1,000 resident population",1,2009,4,2.3,,,"FN0466,NT0064,SC0056,NT9999",15
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Hawaii,12,12,"Beds per 1,000 resident population",1,2010,5,2.4,,,"FN0466,NT0064,SC0056,NT9999",15
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Hawaii,12,12,"Beds per 1,000 resident population",1,2014,6,2,,,"FN0466,NT0064,SC0056,NT9999",15
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Hawaii,12,12,"Beds per 1,000 resident population",1,2015,7,1.8,,,"FN0466,NT0064,SC0056,NT9999",15
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Hawaii,12,12,"Beds per 1,000 resident population",1,2016,8,1.7,,,"FN0466,NT0064,SC0056,NT9999",15
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Hawaii,12,12,"Beds per 1,000 resident population",1,2017,9,1.8,,,"FN0466,NT0064,SC0056,NT9999",15
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Hawaii,12,12,"Beds per 1,000 resident population",1,2018,10,1.9,,,"FN0466,NT0064,SC0056,NT9999",15
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Hawaii,12,12,"Beds per 1,000 resident population",1,2019,11,1.9,,,"FN0466,NT0064,SC0056,NT9999",15
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Hawaii,12,12,"Beds per 1,000 resident population",1,2020,12,1.9,,,"FN0466,NT0064,SC0056,NT9999",15
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Idaho,13,13,"Beds per 1,000 resident population",1,1980,1,3.7,,,"FN0466,NT0064,SC0056,NT9999",16
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Idaho,13,13,"Beds per 1,000 resident population",1,1990,2,3.2,,,"FN0466,NT0064,SC0056,NT9999",16
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Idaho,13,13,"Beds per 1,000 resident population",1,2000,3,2.7,,,"FN0466,NT0064,SC0056,NT9999",16
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Idaho,13,13,"Beds per 1,000 resident population",1,2009,4,2.2,,,"FN0466,NT0064,SC0056,NT9999",16
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Idaho,13,13,"Beds per 1,000 resident population",1,2010,5,2.2,,,"FN0466,NT0064,SC0056,NT9999",16
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Idaho,13,13,"Beds per 1,000 resident population",1,2014,6,2,,,"FN0466,NT0064,SC0056,NT9999",16
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Idaho,13,13,"Beds per 1,000 resident population",1,2015,7,2,,,"FN0466,NT0064,SC0056,NT9999",16
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Idaho,13,13,"Beds per 1,000 resident population",1,2016,8,2,,,"FN0466,NT0064,SC0056,NT9999",16
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Idaho,13,13,"Beds per 1,000 resident population",1,2017,9,2.1,,,"FN0466,NT0064,SC0056,NT9999",16
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Idaho,13,13,"Beds per 1,000 resident population",1,2018,10,1.9,,,"FN0466,NT0064,SC0056,NT9999",16
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Idaho,13,13,"Beds per 1,000 resident population",1,2019,11,1.9,,,"FN0466,NT0064,SC0056,NT9999",16
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Idaho,13,13,"Beds per 1,000 resident population",1,2020,12,1.9,,,"FN0466,NT0064,SC0056,NT9999",16
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Illinois,14,14,"Beds per 1,000 resident population",1,1980,1,5.1,,,"FN0466,NT0064,SC0056,NT9999",17
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Illinois,14,14,"Beds per 1,000 resident population",1,1990,2,4,,,"FN0466,NT0064,SC0056,NT9999",17
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Illinois,14,14,"Beds per 1,000 resident population",1,2000,3,3,,,"FN0466,NT0064,SC0056,NT9999",17
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Illinois,14,14,"Beds per 1,000 resident population",1,2009,4,2.6,,,"FN0466,NT0064,SC0056,NT9999",17
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Illinois,14,14,"Beds per 1,000 resident population",1,2010,5,2.6,,,"FN0466,NT0064,SC0056,NT9999",17
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Illinois,14,14,"Beds per 1,000 resident population",1,2014,6,2.5,,,"FN0466,NT0064,SC0056,NT9999",17
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Illinois,14,14,"Beds per 1,000 resident population",1,2015,7,2.5,,,"FN0466,NT0064,SC0056,NT9999",17
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Illinois,14,14,"Beds per 1,000 resident population",1,2016,8,2.5,,,"FN0466,NT0064,SC0056,NT9999",17
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Illinois,14,14,"Beds per 1,000 resident population",1,2017,9,2.5,,,"FN0466,NT0064,SC0056,NT9999",17
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Illinois,14,14,"Beds per 1,000 resident population",1,2018,10,2.5,,,"FN0466,NT0064,SC0056,NT9999",17
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Illinois,14,14,"Beds per 1,000 resident population",1,2019,11,2.5,,,"FN0466,NT0064,SC0056,NT9999",17
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Illinois,14,14,"Beds per 1,000 resident population",1,2020,12,2.5,,,"FN0466,NT0064,SC0056,NT9999",17
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Indiana,15,15,"Beds per 1,000 resident population",1,1980,1,4.5,,,"FN0466,NT0064,SC0056,NT9999",18
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Indiana,15,15,"Beds per 1,000 resident population",1,1990,2,3.9,,,"FN0466,NT0064,SC0056,NT9999",18
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Indiana,15,15,"Beds per 1,000 resident population",1,2000,3,3.2,,,"FN0466,NT0064,SC0056,NT9999",18
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Indiana,15,15,"Beds per 1,000 resident population",1,2009,4,2.7,,,"FN0466,NT0064,SC0056,NT9999",18
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Indiana,15,15,"Beds per 1,000 resident population",1,2010,5,2.8,,,"FN0466,NT0064,SC0056,NT9999",18
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Indiana,15,15,"Beds per 1,000 resident population",1,2014,6,2.6,,,"FN0466,NT0064,SC0056,NT9999",18
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Indiana,15,15,"Beds per 1,000 resident population",1,2015,7,2.6,,,"FN0466,NT0064,SC0056,NT9999",18
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Indiana,15,15,"Beds per 1,000 resident population",1,2016,8,2.7,,,"FN0466,NT0064,SC0056,NT9999",18
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Indiana,15,15,"Beds per 1,000 resident population",1,2017,9,2.7,,,"FN0466,NT0064,SC0056,NT9999",18
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Indiana,15,15,"Beds per 1,000 resident population",1,2018,10,2.7,,,"FN0466,NT0064,SC0056,NT9999",18
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Indiana,15,15,"Beds per 1,000 resident population",1,2019,11,2.7,,,"FN0466,NT0064,SC0056,NT9999",18
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Indiana,15,15,"Beds per 1,000 resident population",1,2020,12,2.7,,,"FN0466,NT0064,SC0056,NT9999",18
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Iowa,16,16,"Beds per 1,000 resident population",1,1980,1,5.7,,,"FN0466,NT0064,SC0056,NT9999",19
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Iowa,16,16,"Beds per 1,000 resident population",1,1990,2,5.1,,,"FN0466,NT0064,SC0056,NT9999",19
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Iowa,16,16,"Beds per 1,000 resident population",1,2000,3,4,,,"FN0466,NT0064,SC0056,NT9999",19
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Iowa,16,16,"Beds per 1,000 resident population",1,2009,4,3.4,,,"FN0466,NT0064,SC0056,NT9999",19
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Iowa,16,16,"Beds per 1,000 resident population",1,2010,5,3.3,,,"FN0466,NT0064,SC0056,NT9999",19
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Iowa,16,16,"Beds per 1,000 resident population",1,2014,6,3.1,,,"FN0466,NT0064,SC0056,NT9999",19
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Iowa,16,16,"Beds per 1,000 resident population",1,2015,7,3.1,,,"FN0466,NT0064,SC0056,NT9999",19
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Iowa,16,16,"Beds per 1,000 resident population",1,2016,8,3,,,"FN0466,NT0064,SC0056,NT9999",19
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Iowa,16,16,"Beds per 1,000 resident population",1,2017,9,3,,,"FN0466,NT0064,SC0056,NT9999",19
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Iowa,16,16,"Beds per 1,000 resident population",1,2018,10,3,,,"FN0466,NT0064,SC0056,NT9999",19
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Iowa,16,16,"Beds per 1,000 resident population",1,2019,11,3,,,"FN0466,NT0064,SC0056,NT9999",19
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Iowa,16,16,"Beds per 1,000 resident population",1,2020,12,2.9,,,"FN0466,NT0064,SC0056,NT9999",19
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Kansas,17,17,"Beds per 1,000 resident population",1,1980,1,5.8,,,"FN0466,NT0064,SC0056,NT9999",20
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Kansas,17,17,"Beds per 1,000 resident population",1,1990,2,4.8,,,"FN0466,NT0064,SC0056,NT9999",20
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Kansas,17,17,"Beds per 1,000 resident population",1,2000,3,4,,,"FN0466,NT0064,SC0056,NT9999",20
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Kansas,17,17,"Beds per 1,000 resident population",1,2009,4,3.6,,,"FN0466,NT0064,SC0056,NT9999",20
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Kansas,17,17,"Beds per 1,000 resident population",1,2010,5,3.5,,,"FN0466,NT0064,SC0056,NT9999",20
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Kansas,17,17,"Beds per 1,000 resident population",1,2014,6,3.5,,,"FN0466,NT0064,SC0056,NT9999",20
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Kansas,17,17,"Beds per 1,000 resident population",1,2015,7,3.4,,,"FN0466,NT0064,SC0056,NT9999",20
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Kansas,17,17,"Beds per 1,000 resident population",1,2016,8,3.4,,,"FN0466,NT0064,SC0056,NT9999",20
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Kansas,17,17,"Beds per 1,000 resident population",1,2017,9,3.4,,,"FN0466,NT0064,SC0056,NT9999",20
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Kansas,17,17,"Beds per 1,000 resident population",1,2018,10,3.3,,,"FN0466,NT0064,SC0056,NT9999",20
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Kansas,17,17,"Beds per 1,000 resident population",1,2019,11,3.3,,,"FN0466,NT0064,SC0056,NT9999",20
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Kansas,17,17,"Beds per 1,000 resident population",1,2020,12,3.2,,,"FN0466,NT0064,SC0056,NT9999",20
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Kentucky,18,18,"Beds per 1,000 resident population",1,1980,1,4.5,,,"FN0466,NT0064,SC0056,NT9999",21
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Kentucky,18,18,"Beds per 1,000 resident population",1,1990,2,4.3,,,"FN0466,NT0064,SC0056,NT9999",21
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Kentucky,18,18,"Beds per 1,000 resident population",1,2000,3,3.7,,,"FN0466,NT0064,SC0056,NT9999",21
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Kentucky,18,18,"Beds per 1,000 resident population",1,2009,4,3.3,,,"FN0466,NT0064,SC0056,NT9999",21
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Kentucky,18,18,"Beds per 1,000 resident population",1,2010,5,3.3,,,"FN0466,NT0064,SC0056,NT9999",21
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Kentucky,18,18,"Beds per 1,000 resident population",1,2014,6,3.2,,,"FN0466,NT0064,SC0056,NT9999",21
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Kentucky,18,18,"Beds per 1,000 resident population",1,2015,7,3.2,,,"FN0466,NT0064,SC0056,NT9999",21
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Kentucky,18,18,"Beds per 1,000 resident population",1,2016,8,3.2,,,"FN0466,NT0064,SC0056,NT9999",21
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Kentucky,18,18,"Beds per 1,000 resident population",1,2017,9,3.2,,,"FN0466,NT0064,SC0056,NT9999",21
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Kentucky,18,18,"Beds per 1,000 resident population",1,2018,10,3.2,,,"FN0466,NT0064,SC0056,NT9999",21
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Kentucky,18,18,"Beds per 1,000 resident population",1,2019,11,3.2,,,"FN0466,NT0064,SC0056,NT9999",21
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Kentucky,18,18,"Beds per 1,000 resident population",1,2020,12,3.2,,,"FN0466,NT0064,SC0056,NT9999",21
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Louisiana,19,19,"Beds per 1,000 resident population",1,1980,1,4.8,,,"FN0466,NT0064,SC0056,NT9999",22
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Louisiana,19,19,"Beds per 1,000 resident population",1,1990,2,4.6,,,"FN0466,NT0064,SC0056,NT9999",22
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Louisiana,19,19,"Beds per 1,000 resident population",1,2000,3,3.9,,,"FN0466,NT0064,SC0056,NT9999",22
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Louisiana,19,19,"Beds per 1,000 resident population",1,2009,4,3.5,,,"FN0466,NT0064,SC0056,NT9999",22
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Louisiana,19,19,"Beds per 1,000 resident population",1,2010,5,3.4,,,"FN0466,NT0064,SC0056,NT9999",22
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Louisiana,19,19,"Beds per 1,000 resident population",1,2014,6,3.2,,,"FN0466,NT0064,SC0056,NT9999",22
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Louisiana,19,19,"Beds per 1,000 resident population",1,2015,7,3,,,"FN0466,NT0064,SC0056,NT9999",22
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Louisiana,19,19,"Beds per 1,000 resident population",1,2016,8,3.3,,,"FN0466,NT0064,SC0056,NT9999",22
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Louisiana,19,19,"Beds per 1,000 resident population",1,2017,9,3.3,,,"FN0466,NT0064,SC0056,NT9999",22
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Louisiana,19,19,"Beds per 1,000 resident population",1,2018,10,3.3,,,"FN0466,NT0064,SC0056,NT9999",22
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Louisiana,19,19,"Beds per 1,000 resident population",1,2019,11,3.3,,,"FN0466,NT0064,SC0056,NT9999",22
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Louisiana,19,19,"Beds per 1,000 resident population",1,2020,12,3.2,,,"FN0466,NT0064,SC0056,NT9999",22
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Maine,20,20,"Beds per 1,000 resident population",1,1980,1,4.7,,,"FN0466,NT0064,SC0056,NT9999",23
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Maine,20,20,"Beds per 1,000 resident population",1,1990,2,3.7,,,"FN0466,NT0064,SC0056,NT9999",23
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Maine,20,20,"Beds per 1,000 resident population",1,2000,3,2.9,,,"FN0466,NT0064,SC0056,NT9999",23
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Maine,20,20,"Beds per 1,000 resident population",1,2009,4,2.7,,,"FN0466,NT0064,SC0056,NT9999",23
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Maine,20,20,"Beds per 1,000 resident population",1,2010,5,2.7,,,"FN0466,NT0064,SC0056,NT9999",23
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Maine,20,20,"Beds per 1,000 resident population",1,2014,6,2.5,,,"FN0466,NT0064,SC0056,NT9999",23
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Maine,20,20,"Beds per 1,000 resident population",1,2015,7,2.6,,,"FN0466,NT0064,SC0056,NT9999",23
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Maine,20,20,"Beds per 1,000 resident population",1,2016,8,2.6,,,"FN0466,NT0064,SC0056,NT9999",23
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Maine,20,20,"Beds per 1,000 resident population",1,2017,9,2.6,,,"FN0466,NT0064,SC0056,NT9999",23
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Maine,20,20,"Beds per 1,000 resident population",1,2018,10,2.5,,,"FN0466,NT0064,SC0056,NT9999",23
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Maine,20,20,"Beds per 1,000 resident population",1,2019,11,2.6,,,"FN0466,NT0064,SC0056,NT9999",23
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Maine,20,20,"Beds per 1,000 resident population",1,2020,12,2.6,,,"FN0466,NT0064,SC0056,NT9999",23
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Maryland,21,21,"Beds per 1,000 resident population",1,1980,1,3.6,,,"FN0466,NT0064,SC0056,NT9999",24
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Maryland,21,21,"Beds per 1,000 resident population",1,1990,2,2.8,,,"FN0466,NT0064,SC0056,NT9999",24
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Maryland,21,21,"Beds per 1,000 resident population",1,2000,3,2.1,,,"FN0466,NT0064,SC0056,NT9999",24
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Maryland,21,21,"Beds per 1,000 resident population",1,2009,4,2.1,,,"FN0466,NT0064,SC0056,NT9999",24
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Maryland,21,21,"Beds per 1,000 resident population",1,2010,5,2,,,"FN0466,NT0064,SC0056,NT9999",24
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Maryland,21,21,"Beds per 1,000 resident population",1,2014,6,2,,,"FN0466,NT0064,SC0056,NT9999",24
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Maryland,21,21,"Beds per 1,000 resident population",1,2015,7,2,,,"FN0466,NT0064,SC0056,NT9999",24
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Maryland,21,21,"Beds per 1,000 resident population",1,2016,8,1.9,,,"FN0466,NT0064,SC0056,NT9999",24
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Maryland,21,21,"Beds per 1,000 resident population",1,2017,9,1.9,,,"FN0466,NT0064,SC0056,NT9999",24
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Maryland,21,21,"Beds per 1,000 resident population",1,2018,10,1.9,,,"FN0466,NT0064,SC0056,NT9999",24
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Maryland,21,21,"Beds per 1,000 resident population",1,2019,11,1.8,,,"FN0466,NT0064,SC0056,NT9999",24
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Maryland,21,21,"Beds per 1,000 resident population",1,2020,12,1.9,,,"FN0466,NT0064,SC0056,NT9999",24
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Massachusetts,22,22,"Beds per 1,000 resident population",1,1980,1,4.4,,,"FN0466,NT0064,SC0056,NT9999",25
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Massachusetts,22,22,"Beds per 1,000 resident population",1,1990,2,3.6,,,"FN0466,NT0064,SC0056,NT9999",25
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Massachusetts,22,22,"Beds per 1,000 resident population",1,2000,3,2.6,,,"FN0466,NT0064,SC0056,NT9999",25
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Massachusetts,22,22,"Beds per 1,000 resident population",1,2009,4,2.3,,,"FN0466,NT0064,SC0056,NT9999",25
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Massachusetts,22,22,"Beds per 1,000 resident population",1,2010,5,2.4,,,"FN0466,NT0064,SC0056,NT9999",25
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Massachusetts,22,22,"Beds per 1,000 resident population",1,2014,6,2.4,,,"FN0466,NT0064,SC0056,NT9999",25
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Massachusetts,22,22,"Beds per 1,000 resident population",1,2015,7,2.3,,,"FN0466,NT0064,SC0056,NT9999",25
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Massachusetts,22,22,"Beds per 1,000 resident population",1,2016,8,2.3,,,"FN0466,NT0064,SC0056,NT9999",25
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Massachusetts,22,22,"Beds per 1,000 resident population",1,2017,9,2.3,,,"FN0466,NT0064,SC0056,NT9999",25
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Massachusetts,22,22,"Beds per 1,000 resident population",1,2018,10,2.3,,,"FN0466,NT0064,SC0056,NT9999",25
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Massachusetts,22,22,"Beds per 1,000 resident population",1,2019,11,2.3,,,"FN0466,NT0064,SC0056,NT9999",25
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Massachusetts,22,22,"Beds per 1,000 resident population",1,2020,12,2.3,,,"FN0466,NT0064,SC0056,NT9999",25
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Michigan,23,23,"Beds per 1,000 resident population",1,1980,1,4.4,,,"FN0466,NT0064,SC0056,NT9999",26
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Michigan,23,23,"Beds per 1,000 resident population",1,1990,2,3.7,,,"FN0466,NT0064,SC0056,NT9999",26
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Michigan,23,23,"Beds per 1,000 resident population",1,2000,3,2.6,,,"FN0466,NT0064,SC0056,NT9999",26
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Michigan,23,23,"Beds per 1,000 resident population",1,2009,4,2.6,,,"FN0466,NT0064,SC0056,NT9999",26
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Michigan,23,23,"Beds per 1,000 resident population",1,2010,5,2.6,,,"FN0466,NT0064,SC0056,NT9999",26
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Michigan,23,23,"Beds per 1,000 resident population",1,2014,6,2.5,,,"FN0466,NT0064,SC0056,NT9999",26
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Michigan,23,23,"Beds per 1,000 resident population",1,2015,7,2.5,,,"FN0466,NT0064,SC0056,NT9999",26
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Michigan,23,23,"Beds per 1,000 resident population",1,2016,8,2.5,,,"FN0466,NT0064,SC0056,NT9999",26
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Michigan,23,23,"Beds per 1,000 resident population",1,2017,9,2.5,,,"FN0466,NT0064,SC0056,NT9999",26
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Michigan,23,23,"Beds per 1,000 resident population",1,2018,10,2.5,,,"FN0466,NT0064,SC0056,NT9999",26
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Michigan,23,23,"Beds per 1,000 resident population",1,2019,11,2.5,,,"FN0466,NT0064,SC0056,NT9999",26
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Michigan,23,23,"Beds per 1,000 resident population",1,2020,12,2.5,,,"FN0466,NT0064,SC0056,NT9999",26
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Minnesota,24,24,"Beds per 1,000 resident population",1,1980,1,5.7,,,"FN0466,NT0064,SC0056,NT9999",27
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Minnesota,24,24,"Beds per 1,000 resident population",1,1990,2,4.4,,,"FN0466,NT0064,SC0056,NT9999",27
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Minnesota,24,24,"Beds per 1,000 resident population",1,2000,3,3.4,,,"FN0466,NT0064,SC0056,NT9999",27
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Minnesota,24,24,"Beds per 1,000 resident population",1,2009,4,3,,,"FN0466,NT0064,SC0056,NT9999",27
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Minnesota,24,24,"Beds per 1,000 resident population",1,2010,5,2.9,,,"FN0466,NT0064,SC0056,NT9999",27
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Minnesota,24,24,"Beds per 1,000 resident population",1,2014,6,2.7,,,"FN0466,NT0064,SC0056,NT9999",27
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Minnesota,24,24,"Beds per 1,000 resident population",1,2015,7,2.6,,,"FN0466,NT0064,SC0056,NT9999",27
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Minnesota,24,24,"Beds per 1,000 resident population",1,2016,8,2.6,,,"FN0466,NT0064,SC0056,NT9999",27
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Minnesota,24,24,"Beds per 1,000 resident population",1,2017,9,2.5,,,"FN0466,NT0064,SC0056,NT9999",27
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Minnesota,24,24,"Beds per 1,000 resident population",1,2018,10,2.5,,,"FN0466,NT0064,SC0056,NT9999",27
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Minnesota,24,24,"Beds per 1,000 resident population",1,2019,11,2.5,,,"FN0466,NT0064,SC0056,NT9999",27
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Minnesota,24,24,"Beds per 1,000 resident population",1,2020,12,2.4,,,"FN0466,NT0064,SC0056,NT9999",27
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Mississippi,25,25,"Beds per 1,000 resident population",1,1980,1,5.3,,,"FN0466,NT0064,SC0056,NT9999",28
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Mississippi,25,25,"Beds per 1,000 resident population",1,1990,2,5,,,"FN0466,NT0064,SC0056,NT9999",28
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Mississippi,25,25,"Beds per 1,000 resident population",1,2000,3,4.8,,,"FN0466,NT0064,SC0056,NT9999",28
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Mississippi,25,25,"Beds per 1,000 resident population",1,2009,4,4.4,,,"FN0466,NT0064,SC0056,NT9999",28
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Mississippi,25,25,"Beds per 1,000 resident population",1,2010,5,4.4,,,"FN0466,NT0064,SC0056,NT9999",28
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Mississippi,25,25,"Beds per 1,000 resident population",1,2014,6,4.2,,,"FN0466,NT0064,SC0056,NT9999",28
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Mississippi,25,25,"Beds per 1,000 resident population",1,2015,7,4.1,,,"FN0466,NT0064,SC0056,NT9999",28
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Mississippi,25,25,"Beds per 1,000 resident population",1,2016,8,4.1,,,"FN0466,NT0064,SC0056,NT9999",28
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Mississippi,25,25,"Beds per 1,000 resident population",1,2017,9,4.1,,,"FN0466,NT0064,SC0056,NT9999",28
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Mississippi,25,25,"Beds per 1,000 resident population",1,2018,10,4,,,"FN0466,NT0064,SC0056,NT9999",28
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Mississippi,25,25,"Beds per 1,000 resident population",1,2019,11,3.9,,,"FN0466,NT0064,SC0056,NT9999",28
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Mississippi,25,25,"Beds per 1,000 resident population",1,2020,12,4,,,"FN0466,NT0064,SC0056,NT9999",28
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Missouri,26,26,"Beds per 1,000 resident population",1,1980,1,5.7,,,"FN0466,NT0064,SC0056,NT9999",29
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Missouri,26,26,"Beds per 1,000 resident population",1,1990,2,4.8,,,"FN0466,NT0064,SC0056,NT9999",29
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Missouri,26,26,"Beds per 1,000 resident population",1,2000,3,3.6,,,"FN0466,NT0064,SC0056,NT9999",29
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Missouri,26,26,"Beds per 1,000 resident population",1,2009,4,3.2,,,"FN0466,NT0064,SC0056,NT9999",29
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Missouri,26,26,"Beds per 1,000 resident population",1,2010,5,3.1,,,"FN0466,NT0064,SC0056,NT9999",29
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Missouri,26,26,"Beds per 1,000 resident population",1,2014,6,3.1,,,"FN0466,NT0064,SC0056,NT9999",29
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Missouri,26,26,"Beds per 1,000 resident population",1,2015,7,3.1,,,"FN0466,NT0064,SC0056,NT9999",29
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Missouri,26,26,"Beds per 1,000 resident population",1,2016,8,3.1,,,"FN0466,NT0064,SC0056,NT9999",29
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Missouri,26,26,"Beds per 1,000 resident population",1,2017,9,3.1,,,"FN0466,NT0064,SC0056,NT9999",29
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Missouri,26,26,"Beds per 1,000 resident population",1,2018,10,3.1,,,"FN0466,NT0064,SC0056,NT9999",29
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Missouri,26,26,"Beds per 1,000 resident population",1,2019,11,3,,,"FN0466,NT0064,SC0056,NT9999",29
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Missouri,26,26,"Beds per 1,000 resident population",1,2020,12,3,,,"FN0466,NT0064,SC0056,NT9999",29
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Montana,27,27,"Beds per 1,000 resident population",1,1980,1,5.9,,,"FN0466,NT0064,SC0056,NT9999",30
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Montana,27,27,"Beds per 1,000 resident population",1,1990,2,5.8,,,"FN0466,NT0064,SC0056,NT9999",30
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Montana,27,27,"Beds per 1,000 resident population",1,2000,3,4.7,,,"FN0466,NT0064,SC0056,NT9999",30
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Montana,27,27,"Beds per 1,000 resident population",1,2009,4,3.9,,,"FN0466,NT0064,SC0056,NT9999",30
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Montana,27,27,"Beds per 1,000 resident population",1,2010,5,3.8,,,"FN0466,NT0064,SC0056,NT9999",30
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Montana,27,27,"Beds per 1,000 resident population",1,2014,6,3.6,,,"FN0466,NT0064,SC0056,NT9999",30
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Montana,27,27,"Beds per 1,000 resident population",1,2015,7,3.7,,,"FN0466,NT0064,SC0056,NT9999",30
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Montana,27,27,"Beds per 1,000 resident population",1,2016,8,3.6,,,"FN0466,NT0064,SC0056,NT9999",30
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Montana,27,27,"Beds per 1,000 resident population",1,2017,9,3.4,,,"FN0466,NT0064,SC0056,NT9999",30
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Montana,27,27,"Beds per 1,000 resident population",1,2018,10,3.3,,,"FN0466,NT0064,SC0056,NT9999",30
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Montana,27,27,"Beds per 1,000 resident population",1,2019,11,3.4,,,"FN0466,NT0064,SC0056,NT9999",30
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Montana,27,27,"Beds per 1,000 resident population",1,2020,12,3.5,,,"FN0466,NT0064,SC0056,NT9999",30
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Nebraska,28,28,"Beds per 1,000 resident population",1,1980,1,6,,,"FN0466,NT0064,SC0056,NT9999",31
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Nebraska,28,28,"Beds per 1,000 resident population",1,1990,2,5.5,,,"FN0466,NT0064,SC0056,NT9999",31
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Nebraska,28,28,"Beds per 1,000 resident population",1,2000,3,4.8,,,"FN0466,NT0064,SC0056,NT9999",31
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Nebraska,28,28,"Beds per 1,000 resident population",1,2009,4,4.1,,,"FN0466,NT0064,SC0056,NT9999",31
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Nebraska,28,28,"Beds per 1,000 resident population",1,2010,5,4,,,"FN0466,NT0064,SC0056,NT9999",31
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Nebraska,28,28,"Beds per 1,000 resident population",1,2014,6,3.5,,,"FN0466,NT0064,SC0056,NT9999",31
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Nebraska,28,28,"Beds per 1,000 resident population",1,2015,7,3.5,,,"FN0466,NT0064,SC0056,NT9999",31
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Nebraska,28,28,"Beds per 1,000 resident population",1,2016,8,3.6,,,"FN0466,NT0064,SC0056,NT9999",31
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Nebraska,28,28,"Beds per 1,000 resident population",1,2017,9,3.6,,,"FN0466,NT0064,SC0056,NT9999",31
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Nebraska,28,28,"Beds per 1,000 resident population",1,2018,10,3.5,,,"FN0466,NT0064,SC0056,NT9999",31
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Nebraska,28,28,"Beds per 1,000 resident population",1,2019,11,3.5,,,"FN0466,NT0064,SC0056,NT9999",31
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Nebraska,28,28,"Beds per 1,000 resident population",1,2020,12,3.4,,,"FN0466,NT0064,SC0056,NT9999",31
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Nevada,29,29,"Beds per 1,000 resident population",1,1980,1,4.2,,,"FN0466,NT0064,SC0056,NT9999",32
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Nevada,29,29,"Beds per 1,000 resident population",1,1990,2,2.8,,,"FN0466,NT0064,SC0056,NT9999",32
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Nevada,29,29,"Beds per 1,000 resident population",1,2000,3,1.9,,,"FN0466,NT0064,SC0056,NT9999",32
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Nevada,29,29,"Beds per 1,000 resident population",1,2009,4,1.9,,,"FN0466,NT0064,SC0056,NT9999",32
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Nevada,29,29,"Beds per 1,000 resident population",1,2010,5,2,,,"FN0466,NT0064,SC0056,NT9999",32
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Nevada,29,29,"Beds per 1,000 resident population",1,2014,6,2,,,"FN0466,NT0064,SC0056,NT9999",32
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Nevada,29,29,"Beds per 1,000 resident population",1,2015,7,1.9,,,"FN0466,NT0064,SC0056,NT9999",32
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Nevada,29,29,"Beds per 1,000 resident population",1,2016,8,2.1,,,"FN0466,NT0064,SC0056,NT9999",32
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Nevada,29,29,"Beds per 1,000 resident population",1,2017,9,2.2,,,"FN0466,NT0064,SC0056,NT9999",32
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Nevada,29,29,"Beds per 1,000 resident population",1,2018,10,2.1,,,"FN0466,NT0064,SC0056,NT9999",32
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Nevada,29,29,"Beds per 1,000 resident population",1,2019,11,2,,,"FN0466,NT0064,SC0056,NT9999",32
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Nevada,29,29,"Beds per 1,000 resident population",1,2020,12,2.1,,,"FN0466,NT0064,SC0056,NT9999",32
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New Hampshire,30,30,"Beds per 1,000 resident population",1,1980,1,3.9,,,"FN0466,NT0064,SC0056,NT9999",33
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New Hampshire,30,30,"Beds per 1,000 resident population",1,1990,2,3.1,,,"FN0466,NT0064,SC0056,NT9999",33
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New Hampshire,30,30,"Beds per 1,000 resident population",1,2000,3,2.3,,,"FN0466,NT0064,SC0056,NT9999",33
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New Hampshire,30,30,"Beds per 1,000 resident population",1,2009,4,2.2,,,"FN0466,NT0064,SC0056,NT9999",33
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New Hampshire,30,30,"Beds per 1,000 resident population",1,2010,5,2.2,,,"FN0466,NT0064,SC0056,NT9999",33
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New Hampshire,30,30,"Beds per 1,000 resident population",1,2014,6,2.1,,,"FN0466,NT0064,SC0056,NT9999",33
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New Hampshire,30,30,"Beds per 1,000 resident population",1,2015,7,2.1,,,"FN0466,NT0064,SC0056,NT9999",33
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New Hampshire,30,30,"Beds per 1,000 resident population",1,2016,8,2.1,,,"FN0466,NT0064,SC0056,NT9999",33
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New Hampshire,30,30,"Beds per 1,000 resident population",1,2017,9,2.1,,,"FN0466,NT0064,SC0056,NT9999",33
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New Hampshire,30,30,"Beds per 1,000 resident population",1,2018,10,2.1,,,"FN0466,NT0064,SC0056,NT9999",33
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New Hampshire,30,30,"Beds per 1,000 resident population",1,2019,11,2.1,,,"FN0466,NT0064,SC0056,NT9999",33
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New Hampshire,30,30,"Beds per 1,000 resident population",1,2020,12,2.1,,,"FN0466,NT0064,SC0056,NT9999",33
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New Jersey,31,31,"Beds per 1,000 resident population",1,1980,1,4.2,,,"FN0466,NT0064,SC0056,NT9999",34
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New Jersey,31,31,"Beds per 1,000 resident population",1,1990,2,3.7,,,"FN0466,NT0064,SC0056,NT9999",34
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New Jersey,31,31,"Beds per 1,000 resident population",1,2000,3,3,,,"FN0466,NT0064,SC0056,NT9999",34
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New Jersey,31,31,"Beds per 1,000 resident population",1,2009,4,2.4,,,"FN0466,NT0064,SC0056,NT9999",34
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New Jersey,31,31,"Beds per 1,000 resident population",1,2010,5,2.4,,,"FN0466,NT0064,SC0056,NT9999",34
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New Jersey,31,31,"Beds per 1,000 resident population",1,2014,6,2.3,,,"FN0466,NT0064,SC0056,NT9999",34
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New Jersey,31,31,"Beds per 1,000 resident population",1,2015,7,2.3,,,"FN0466,NT0064,SC0056,NT9999",34
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New Jersey,31,31,"Beds per 1,000 resident population",1,2016,8,2.4,,,"FN0466,NT0064,SC0056,NT9999",34
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New Jersey,31,31,"Beds per 1,000 resident population",1,2017,9,2.4,,,"FN0466,NT0064,SC0056,NT9999",34
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New Jersey,31,31,"Beds per 1,000 resident population",1,2018,10,2.3,,,"FN0466,NT0064,SC0056,NT9999",34
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New Jersey,31,31,"Beds per 1,000 resident population",1,2019,11,2.3,,,"FN0466,NT0064,SC0056,NT9999",34
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New Jersey,31,31,"Beds per 1,000 resident population",1,2020,12,2.5,,,"FN0466,NT0064,SC0056,NT9999",34
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New Mexico,32,32,"Beds per 1,000 resident population",1,1980,1,3.1,,,"FN0466,NT0064,SC0056,NT9999",35
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New Mexico,32,32,"Beds per 1,000 resident population",1,1990,2,2.8,,,"FN0466,NT0064,SC0056,NT9999",35
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New Mexico,32,32,"Beds per 1,000 resident population",1,2000,3,1.9,,,"FN0466,NT0064,SC0056,NT9999",35
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New Mexico,32,32,"Beds per 1,000 resident population",1,2009,4,1.9,,,"FN0466,NT0064,SC0056,NT9999",35
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New Mexico,32,32,"Beds per 1,000 resident population",1,2010,5,2,,,"FN0466,NT0064,SC0056,NT9999",35
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New Mexico,32,32,"Beds per 1,000 resident population",1,2014,6,1.8,,,"FN0466,NT0064,SC0056,NT9999",35
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New Mexico,32,32,"Beds per 1,000 resident population",1,2015,7,1.9,,,"FN0466,NT0064,SC0056,NT9999",35
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New Mexico,32,32,"Beds per 1,000 resident population",1,2016,8,1.9,,,"FN0466,NT0064,SC0056,NT9999",35
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New Mexico,32,32,"Beds per 1,000 resident population",1,2017,9,1.9,,,"FN0466,NT0064,SC0056,NT9999",35
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New Mexico,32,32,"Beds per 1,000 resident population",1,2018,10,1.8,,,"FN0466,NT0064,SC0056,NT9999",35
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New Mexico,32,32,"Beds per 1,000 resident population",1,2019,11,1.8,,,"FN0466,NT0064,SC0056,NT9999",35
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New Mexico,32,32,"Beds per 1,000 resident population",1,2020,12,1.8,,,"FN0466,NT0064,SC0056,NT9999",35
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New York,33,33,"Beds per 1,000 resident population",1,1980,1,4.5,,,"FN0466,NT0064,SC0056,NT9999",36
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New York,33,33,"Beds per 1,000 resident population",1,1990,2,4.1,,,"FN0466,NT0064,SC0056,NT9999",36
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New York,33,33,"Beds per 1,000 resident population",1,2000,3,3.5,,,"FN0466,NT0064,SC0056,NT9999",36
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New York,33,33,"Beds per 1,000 resident population",1,2009,4,3.1,,,"FN0466,NT0064,SC0056,NT9999",36
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New York,33,33,"Beds per 1,000 resident population",1,2010,5,3,,,"FN0466,NT0064,SC0056,NT9999",36
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New York,33,33,"Beds per 1,000 resident population",1,2014,6,2.8,,,"FN0466,NT0064,SC0056,NT9999",36
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New York,33,33,"Beds per 1,000 resident population",1,2015,7,2.7,,,"FN0466,NT0064,SC0056,NT9999",36
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New York,33,33,"Beds per 1,000 resident population",1,2016,8,2.7,,,"FN0466,NT0064,SC0056,NT9999",36
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New York,33,33,"Beds per 1,000 resident population",1,2017,9,2.6,,,"FN0466,NT0064,SC0056,NT9999",36
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New York,33,33,"Beds per 1,000 resident population",1,2018,10,2.7,,,"FN0466,NT0064,SC0056,NT9999",36
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New York,33,33,"Beds per 1,000 resident population",1,2019,11,2.7,,,"FN0466,NT0064,SC0056,NT9999",36
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,New York,33,33,"Beds per 1,000 resident population",1,2020,12,2.6,,,"FN0466,NT0064,SC0056,NT9999",36
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,North Carolina,34,34,"Beds per 1,000 resident population",1,1980,1,4.2,,,"FN0466,NT0064,SC0056,NT9999",37
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,North Carolina,34,34,"Beds per 1,000 resident population",1,1990,2,3.3,,,"FN0466,NT0064,SC0056,NT9999",37
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,North Carolina,34,34,"Beds per 1,000 resident population",1,2000,3,2.9,,,"FN0466,NT0064,SC0056,NT9999",37
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,North Carolina,34,34,"Beds per 1,000 resident population",1,2009,4,2.4,,,"FN0466,NT0064,SC0056,NT9999",37
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,North Carolina,34,34,"Beds per 1,000 resident population",1,2010,5,2.4,,,"FN0466,NT0064,SC0056,NT9999",37
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,North Carolina,34,34,"Beds per 1,000 resident population",1,2014,6,2.2,,,"FN0466,NT0064,SC0056,NT9999",37
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,North Carolina,34,34,"Beds per 1,000 resident population",1,2015,7,2.1,,,"FN0466,NT0064,SC0056,NT9999",37
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,North Carolina,34,34,"Beds per 1,000 resident population",1,2016,8,2.2,,,"FN0466,NT0064,SC0056,NT9999",37
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,North Carolina,34,34,"Beds per 1,000 resident population",1,2017,9,2.1,,,"FN0466,NT0064,SC0056,NT9999",37
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,North Carolina,34,34,"Beds per 1,000 resident population",1,2018,10,2.1,,,"FN0466,NT0064,SC0056,NT9999",37
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,North Carolina,34,34,"Beds per 1,000 resident population",1,2019,11,2.1,,,"FN0466,NT0064,SC0056,NT9999",37
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,North Carolina,34,34,"Beds per 1,000 resident population",1,2020,12,2.1,,,"FN0466,NT0064,SC0056,NT9999",37
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,North Dakota,35,35,"Beds per 1,000 resident population",1,1980,1,7.4,,,"FN0466,NT0064,SC0056,NT9999",38
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,North Dakota,35,35,"Beds per 1,000 resident population",1,1990,2,7,,,"FN0466,NT0064,SC0056,NT9999",38
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,North Dakota,35,35,"Beds per 1,000 resident population",1,2000,3,6,,,"FN0466,NT0064,SC0056,NT9999",38
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,North Dakota,35,35,"Beds per 1,000 resident population",1,2009,4,5.2,,,"FN0466,NT0064,SC0056,NT9999",38
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,North Dakota,35,35,"Beds per 1,000 resident population",1,2010,5,5.1,,,"FN0466,NT0064,SC0056,NT9999",38
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,North Dakota,35,35,"Beds per 1,000 resident population",1,2014,6,4.3,,,"FN0466,NT0064,SC0056,NT9999",38
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,North Dakota,35,35,"Beds per 1,000 resident population",1,2015,7,4.2,,,"FN0466,NT0064,SC0056,NT9999",38
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,North Dakota,35,35,"Beds per 1,000 resident population",1,2016,8,4.3,,,"FN0466,NT0064,SC0056,NT9999",38
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,North Dakota,35,35,"Beds per 1,000 resident population",1,2017,9,4.2,,,"FN0466,NT0064,SC0056,NT9999",38
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,North Dakota,35,35,"Beds per 1,000 resident population",1,2018,10,4.3,,,"FN0466,NT0064,SC0056,NT9999",38
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,North Dakota,35,35,"Beds per 1,000 resident population",1,2019,11,4.4,,,"FN0466,NT0064,SC0056,NT9999",38
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,North Dakota,35,35,"Beds per 1,000 resident population",1,2020,12,4.4,,,"FN0466,NT0064,SC0056,NT9999",38
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Ohio,36,36,"Beds per 1,000 resident population",1,1980,1,4.7,,,"FN0466,NT0064,SC0056,NT9999",39
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Ohio,36,36,"Beds per 1,000 resident population",1,1990,2,4,,,"FN0466,NT0064,SC0056,NT9999",39
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Ohio,36,36,"Beds per 1,000 resident population",1,2000,3,3,,,"FN0466,NT0064,SC0056,NT9999",39
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Ohio,36,36,"Beds per 1,000 resident population",1,2009,4,2.9,,,"FN0466,NT0064,SC0056,NT9999",39
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Ohio,36,36,"Beds per 1,000 resident population",1,2010,5,3,,,"FN0466,NT0064,SC0056,NT9999",39
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Ohio,36,36,"Beds per 1,000 resident population",1,2014,6,2.9,,,"FN0466,NT0064,SC0056,NT9999",39
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Ohio,36,36,"Beds per 1,000 resident population",1,2015,7,2.9,,,"FN0466,NT0064,SC0056,NT9999",39
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Ohio,36,36,"Beds per 1,000 resident population",1,2016,8,2.9,,,"FN0466,NT0064,SC0056,NT9999",39
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Ohio,36,36,"Beds per 1,000 resident population",1,2017,9,2.9,,,"FN0466,NT0064,SC0056,NT9999",39
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Ohio,36,36,"Beds per 1,000 resident population",1,2018,10,2.8,,,"FN0466,NT0064,SC0056,NT9999",39
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Ohio,36,36,"Beds per 1,000 resident population",1,2019,11,2.8,,,"FN0466,NT0064,SC0056,NT9999",39
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Ohio,36,36,"Beds per 1,000 resident population",1,2020,12,2.8,,,"FN0466,NT0064,SC0056,NT9999",39
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Oklahoma,37,37,"Beds per 1,000 resident population",1,1980,1,4.6,,,"FN0466,NT0064,SC0056,NT9999",40
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Oklahoma,37,37,"Beds per 1,000 resident population",1,1990,2,4,,,"FN0466,NT0064,SC0056,NT9999",40
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Oklahoma,37,37,"Beds per 1,000 resident population",1,2000,3,3.2,,,"FN0466,NT0064,SC0056,NT9999",40
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Oklahoma,37,37,"Beds per 1,000 resident population",1,2009,4,3.1,,,"FN0466,NT0064,SC0056,NT9999",40
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Oklahoma,37,37,"Beds per 1,000 resident population",1,2010,5,3,,,"FN0466,NT0064,SC0056,NT9999",40
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Oklahoma,37,37,"Beds per 1,000 resident population",1,2014,6,2.9,,,"FN0466,NT0064,SC0056,NT9999",40
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Oklahoma,37,37,"Beds per 1,000 resident population",1,2015,7,2.8,,,"FN0466,NT0064,SC0056,NT9999",40
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Oklahoma,37,37,"Beds per 1,000 resident population",1,2016,8,3,,,"FN0466,NT0064,SC0056,NT9999",40
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Oklahoma,37,37,"Beds per 1,000 resident population",1,2017,9,2.9,,,"FN0466,NT0064,SC0056,NT9999",40
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Oklahoma,37,37,"Beds per 1,000 resident population",1,2018,10,2.8,,,"FN0466,NT0064,SC0056,NT9999",40
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Oklahoma,37,37,"Beds per 1,000 resident population",1,2019,11,2.9,,,"FN0466,NT0064,SC0056,NT9999",40
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Oklahoma,37,37,"Beds per 1,000 resident population",1,2020,12,2.8,,,"FN0466,NT0064,SC0056,NT9999",40
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Oregon,38,38,"Beds per 1,000 resident population",1,1980,1,3.5,,,"FN0466,NT0064,SC0056,NT9999",41
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Oregon,38,38,"Beds per 1,000 resident population",1,1990,2,2.8,,,"FN0466,NT0064,SC0056,NT9999",41
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Oregon,38,38,"Beds per 1,000 resident population",1,2000,3,1.9,,,"FN0466,NT0064,SC0056,NT9999",41
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Oregon,38,38,"Beds per 1,000 resident population",1,2009,4,1.7,,,"FN0466,NT0064,SC0056,NT9999",41
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Oregon,38,38,"Beds per 1,000 resident population",1,2010,5,1.7,,,"FN0466,NT0064,SC0056,NT9999",41
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Oregon,38,38,"Beds per 1,000 resident population",1,2014,6,1.7,,,"FN0466,NT0064,SC0056,NT9999",41
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Oregon,38,38,"Beds per 1,000 resident population",1,2015,7,1.7,,,"FN0466,NT0064,SC0056,NT9999",41
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Oregon,38,38,"Beds per 1,000 resident population",1,2016,8,1.7,,,"FN0466,NT0064,SC0056,NT9999",41
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Oregon,38,38,"Beds per 1,000 resident population",1,2017,9,1.7,,,"FN0466,NT0064,SC0056,NT9999",41
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Oregon,38,38,"Beds per 1,000 resident population",1,2018,10,1.6,,,"FN0466,NT0064,SC0056,NT9999",41
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Oregon,38,38,"Beds per 1,000 resident population",1,2019,11,1.7,,,"FN0466,NT0064,SC0056,NT9999",41
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Oregon,38,38,"Beds per 1,000 resident population",1,2020,12,1.6,,,"FN0466,NT0064,SC0056,NT9999",41
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Pennsylvania,39,39,"Beds per 1,000 resident population",1,1980,1,4.8,,,"FN0466,NT0064,SC0056,NT9999",42
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Pennsylvania,39,39,"Beds per 1,000 resident population",1,1990,2,4.4,,,"FN0466,NT0064,SC0056,NT9999",42
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Pennsylvania,39,39,"Beds per 1,000 resident population",1,2000,3,3.4,,,"FN0466,NT0064,SC0056,NT9999",42
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Pennsylvania,39,39,"Beds per 1,000 resident population",1,2009,4,3.1,,,"FN0466,NT0064,SC0056,NT9999",42
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Pennsylvania,39,39,"Beds per 1,000 resident population",1,2010,5,3.2,,,"FN0466,NT0064,SC0056,NT9999",42
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Pennsylvania,39,39,"Beds per 1,000 resident population",1,2014,6,3,,,"FN0466,NT0064,SC0056,NT9999",42
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Pennsylvania,39,39,"Beds per 1,000 resident population",1,2015,7,2.9,,,"FN0466,NT0064,SC0056,NT9999",42
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Pennsylvania,39,39,"Beds per 1,000 resident population",1,2016,8,3,,,"FN0466,NT0064,SC0056,NT9999",42
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Pennsylvania,39,39,"Beds per 1,000 resident population",1,2017,9,2.9,,,"FN0466,NT0064,SC0056,NT9999",42
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Pennsylvania,39,39,"Beds per 1,000 resident population",1,2018,10,2.9,,,"FN0466,NT0064,SC0056,NT9999",42
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Pennsylvania,39,39,"Beds per 1,000 resident population",1,2019,11,2.8,,,"FN0466,NT0064,SC0056,NT9999",42
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Pennsylvania,39,39,"Beds per 1,000 resident population",1,2020,12,2.8,,,"FN0466,NT0064,SC0056,NT9999",42
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Rhode Island,40,40,"Beds per 1,000 resident population",1,1980,1,3.8,,,"FN0466,NT0064,SC0056,NT9999",44
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Rhode Island,40,40,"Beds per 1,000 resident population",1,1990,2,3.2,,,"FN0466,NT0064,SC0056,NT9999",44
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Rhode Island,40,40,"Beds per 1,000 resident population",1,2000,3,2.3,,,"FN0466,NT0064,SC0056,NT9999",44
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Rhode Island,40,40,"Beds per 1,000 resident population",1,2009,4,2.4,,,"FN0466,NT0064,SC0056,NT9999",44
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Rhode Island,40,40,"Beds per 1,000 resident population",1,2010,5,2.3,,,"FN0466,NT0064,SC0056,NT9999",44
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Rhode Island,40,40,"Beds per 1,000 resident population",1,2014,6,2.1,,,"FN0466,NT0064,SC0056,NT9999",44
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Rhode Island,40,40,"Beds per 1,000 resident population",1,2015,7,2.1,,,"FN0466,NT0064,SC0056,NT9999",44
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Rhode Island,40,40,"Beds per 1,000 resident population",1,2016,8,2.2,,,"FN0466,NT0064,SC0056,NT9999",44
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Rhode Island,40,40,"Beds per 1,000 resident population",1,2017,9,2,,,"FN0466,NT0064,SC0056,NT9999",44
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Rhode Island,40,40,"Beds per 1,000 resident population",1,2018,10,2.1,,,"FN0466,NT0064,SC0056,NT9999",44
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Rhode Island,40,40,"Beds per 1,000 resident population",1,2019,11,2.1,,,"FN0466,NT0064,SC0056,NT9999",44
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Rhode Island,40,40,"Beds per 1,000 resident population",1,2020,12,2.1,,,"FN0466,NT0064,SC0056,NT9999",44
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,South Carolina,41,41,"Beds per 1,000 resident population",1,1980,1,3.9,,,"FN0466,NT0064,SC0056,NT9999",45
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,South Carolina,41,41,"Beds per 1,000 resident population",1,1990,2,3.3,,,"FN0466,NT0064,SC0056,NT9999",45
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,South Carolina,41,41,"Beds per 1,000 resident population",1,2000,3,2.9,,,"FN0466,NT0064,SC0056,NT9999",45
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,South Carolina,41,41,"Beds per 1,000 resident population",1,2009,4,2.7,,,"FN0466,NT0064,SC0056,NT9999",45
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,South Carolina,41,41,"Beds per 1,000 resident population",1,2010,5,2.7,,,"FN0466,NT0064,SC0056,NT9999",45
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,South Carolina,41,41,"Beds per 1,000 resident population",1,2014,6,2.5,,,"FN0466,NT0064,SC0056,NT9999",45
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,South Carolina,41,41,"Beds per 1,000 resident population",1,2015,7,2.5,,,"FN0466,NT0064,SC0056,NT9999",45
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,South Carolina,41,41,"Beds per 1,000 resident population",1,2016,8,2.5,,,"FN0466,NT0064,SC0056,NT9999",45
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,South Carolina,41,41,"Beds per 1,000 resident population",1,2017,9,2.5,,,"FN0466,NT0064,SC0056,NT9999",45
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,South Carolina,41,41,"Beds per 1,000 resident population",1,2018,10,2.4,,,"FN0466,NT0064,SC0056,NT9999",45
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,South Carolina,41,41,"Beds per 1,000 resident population",1,2019,11,2.3,,,"FN0466,NT0064,SC0056,NT9999",45
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,South Carolina,41,41,"Beds per 1,000 resident population",1,2020,12,2.2,,,"FN0466,NT0064,SC0056,NT9999",45
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,South Dakota,42,42,"Beds per 1,000 resident population",1,1980,1,5.5,,,"FN0466,NT0064,SC0056,NT9999",46
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,South Dakota,42,42,"Beds per 1,000 resident population",1,1990,2,6.1,,,"FN0466,NT0064,SC0056,NT9999",46
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,South Dakota,42,42,"Beds per 1,000 resident population",1,2000,3,5.7,,,"FN0466,NT0064,SC0056,NT9999",46
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,South Dakota,42,42,"Beds per 1,000 resident population",1,2009,4,5.1,,,"FN0466,NT0064,SC0056,NT9999",46
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,South Dakota,42,42,"Beds per 1,000 resident population",1,2010,5,5,,,"FN0466,NT0064,SC0056,NT9999",46
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,South Dakota,42,42,"Beds per 1,000 resident population",1,2014,6,4.8,,,"FN0466,NT0064,SC0056,NT9999",46
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,South Dakota,42,42,"Beds per 1,000 resident population",1,2015,7,4.7,,,"FN0466,NT0064,SC0056,NT9999",46
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,South Dakota,42,42,"Beds per 1,000 resident population",1,2016,8,4.8,,,"FN0466,NT0064,SC0056,NT9999",46
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,South Dakota,42,42,"Beds per 1,000 resident population",1,2017,9,4.8,,,"FN0466,NT0064,SC0056,NT9999",46
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,South Dakota,42,42,"Beds per 1,000 resident population",1,2018,10,4.7,,,"FN0466,NT0064,SC0056,NT9999",46
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,South Dakota,42,42,"Beds per 1,000 resident population",1,2019,11,4.8,,,"FN0466,NT0064,SC0056,NT9999",46
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,South Dakota,42,42,"Beds per 1,000 resident population",1,2020,12,4.8,,,"FN0466,NT0064,SC0056,NT9999",46
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Tennessee,43,43,"Beds per 1,000 resident population",1,1980,1,5.5,,,"FN0466,NT0064,SC0056,NT9999",47
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Tennessee,43,43,"Beds per 1,000 resident population",1,1990,2,4.8,,,"FN0466,NT0064,SC0056,NT9999",47
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Tennessee,43,43,"Beds per 1,000 resident population",1,2000,3,3.6,,,"FN0466,NT0064,SC0056,NT9999",47
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Tennessee,43,43,"Beds per 1,000 resident population",1,2009,4,3.3,,,"FN0466,NT0064,SC0056,NT9999",47
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Tennessee,43,43,"Beds per 1,000 resident population",1,2010,5,3.3,,,"FN0466,NT0064,SC0056,NT9999",47
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Tennessee,43,43,"Beds per 1,000 resident population",1,2014,6,3.1,,,"FN0466,NT0064,SC0056,NT9999",47
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Tennessee,43,43,"Beds per 1,000 resident population",1,2015,7,3,,,"FN0466,NT0064,SC0056,NT9999",47
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Tennessee,43,43,"Beds per 1,000 resident population",1,2016,8,2.9,,,"FN0466,NT0064,SC0056,NT9999",47
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Tennessee,43,43,"Beds per 1,000 resident population",1,2017,9,3,,,"FN0466,NT0064,SC0056,NT9999",47
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Tennessee,43,43,"Beds per 1,000 resident population",1,2018,10,2.9,,,"FN0466,NT0064,SC0056,NT9999",47
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Tennessee,43,43,"Beds per 1,000 resident population",1,2019,11,2.7,,,"FN0466,NT0064,SC0056,NT9999",47
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Tennessee,43,43,"Beds per 1,000 resident population",1,2020,12,2.8,,,"FN0466,NT0064,SC0056,NT9999",47
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Texas,44,44,"Beds per 1,000 resident population",1,1980,1,4.7,,,"FN0466,NT0064,SC0056,NT9999",48
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Texas,44,44,"Beds per 1,000 resident population",1,1990,2,3.5,,,"FN0466,NT0064,SC0056,NT9999",48
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Texas,44,44,"Beds per 1,000 resident population",1,2000,3,2.7,,,"FN0466,NT0064,SC0056,NT9999",48
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Texas,44,44,"Beds per 1,000 resident population",1,2009,4,2.5,,,"FN0466,NT0064,SC0056,NT9999",48
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Texas,44,44,"Beds per 1,000 resident population",1,2010,5,2.4,,,"FN0466,NT0064,SC0056,NT9999",48
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Texas,44,44,"Beds per 1,000 resident population",1,2014,6,2.3,,,"FN0466,NT0064,SC0056,NT9999",48
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Texas,44,44,"Beds per 1,000 resident population",1,2015,7,2.3,,,"FN0466,NT0064,SC0056,NT9999",48
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Texas,44,44,"Beds per 1,000 resident population",1,2016,8,2.4,,,"FN0466,NT0064,SC0056,NT9999",48
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Texas,44,44,"Beds per 1,000 resident population",1,2017,9,2.4,,,"FN0466,NT0064,SC0056,NT9999",48
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Texas,44,44,"Beds per 1,000 resident population",1,2018,10,2.3,,,"FN0466,NT0064,SC0056,NT9999",48
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Texas,44,44,"Beds per 1,000 resident population",1,2019,11,2.2,,,"FN0466,NT0064,SC0056,NT9999",48
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Texas,44,44,"Beds per 1,000 resident population",1,2020,12,2.3,,,"FN0466,NT0064,SC0056,NT9999",48
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Utah,46,46,"Beds per 1,000 resident population",1,1980,1,3.1,,,"FN0466,NT0064,SC0056,NT9999",49
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Utah,46,46,"Beds per 1,000 resident population",1,1990,2,2.6,,,"FN0466,NT0064,SC0056,NT9999",49
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Utah,46,46,"Beds per 1,000 resident population",1,2000,3,1.9,,,"FN0466,NT0064,SC0056,NT9999",49
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Utah,46,46,"Beds per 1,000 resident population",1,2009,4,1.8,,,"FN0466,NT0064,SC0056,NT9999",49
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Utah,46,46,"Beds per 1,000 resident population",1,2010,5,1.8,,,"FN0466,NT0064,SC0056,NT9999",49
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Utah,46,46,"Beds per 1,000 resident population",1,2014,6,1.8,,,"FN0466,NT0064,SC0056,NT9999",49
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Utah,46,46,"Beds per 1,000 resident population",1,2015,7,1.8,,,"FN0466,NT0064,SC0056,NT9999",49
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Utah,46,46,"Beds per 1,000 resident population",1,2016,8,1.9,,,"FN0466,NT0064,SC0056,NT9999",49
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Utah,46,46,"Beds per 1,000 resident population",1,2017,9,1.8,,,"FN0466,NT0064,SC0056,NT9999",49
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Utah,46,46,"Beds per 1,000 resident population",1,2018,10,1.8,,,"FN0466,NT0064,SC0056,NT9999",49
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Utah,46,46,"Beds per 1,000 resident population",1,2019,11,1.8,,,"FN0466,NT0064,SC0056,NT9999",49
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Utah,46,46,"Beds per 1,000 resident population",1,2020,12,1.8,,,"FN0466,NT0064,SC0056,NT9999",49
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Vermont,47,47,"Beds per 1,000 resident population",1,1980,1,4.4,,,"FN0466,NT0064,SC0056,NT9999",50
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Vermont,47,47,"Beds per 1,000 resident population",1,1990,2,3,,,"FN0466,NT0064,SC0056,NT9999",50
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Vermont,47,47,"Beds per 1,000 resident population",1,2000,3,2.7,,,"FN0466,NT0064,SC0056,NT9999",50
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Vermont,47,47,"Beds per 1,000 resident population",1,2009,4,2.1,,,"FN0466,NT0064,SC0056,NT9999",50
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Vermont,47,47,"Beds per 1,000 resident population",1,2010,5,2.1,,,"FN0466,NT0064,SC0056,NT9999",50
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Vermont,47,47,"Beds per 1,000 resident population",1,2014,6,1.9,,,"FN0466,NT0064,SC0056,NT9999",50
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Vermont,47,47,"Beds per 1,000 resident population",1,2015,7,1.9,,,"FN0466,NT0064,SC0056,NT9999",50
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Vermont,47,47,"Beds per 1,000 resident population",1,2016,8,2,,,"FN0466,NT0064,SC0056,NT9999",50
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Vermont,47,47,"Beds per 1,000 resident population",1,2017,9,2.1,,,"FN0466,NT0064,SC0056,NT9999",50
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Vermont,47,47,"Beds per 1,000 resident population",1,2018,10,2.1,,,"FN0466,NT0064,SC0056,NT9999",50
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Vermont,47,47,"Beds per 1,000 resident population",1,2019,11,2,,,"FN0466,NT0064,SC0056,NT9999",50
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Vermont,47,47,"Beds per 1,000 resident population",1,2020,12,2.1,,,"FN0466,NT0064,SC0056,NT9999",50
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Virginia,48,48,"Beds per 1,000 resident population",1,1980,1,4.1,,,"FN0466,NT0064,SC0056,NT9999",51
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Virginia,48,48,"Beds per 1,000 resident population",1,1990,2,3.3,,,"FN0466,NT0064,SC0056,NT9999",51
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Virginia,48,48,"Beds per 1,000 resident population",1,2000,3,2.4,,,"FN0466,NT0064,SC0056,NT9999",51
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Virginia,48,48,"Beds per 1,000 resident population",1,2009,4,2.2,,,"FN0466,NT0064,SC0056,NT9999",51
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Virginia,48,48,"Beds per 1,000 resident population",1,2010,5,2.2,,,"FN0466,NT0064,SC0056,NT9999",51
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Virginia,48,48,"Beds per 1,000 resident population",1,2014,6,2.2,,,"FN0466,NT0064,SC0056,NT9999",51
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Virginia,48,48,"Beds per 1,000 resident population",1,2015,7,2.1,,,"FN0466,NT0064,SC0056,NT9999",51
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Virginia,48,48,"Beds per 1,000 resident population",1,2016,8,2.1,,,"FN0466,NT0064,SC0056,NT9999",51
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Virginia,48,48,"Beds per 1,000 resident population",1,2017,9,2.1,,,"FN0466,NT0064,SC0056,NT9999",51
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Virginia,48,48,"Beds per 1,000 resident population",1,2018,10,2.1,,,"FN0466,NT0064,SC0056,NT9999",51
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Virginia,48,48,"Beds per 1,000 resident population",1,2019,11,2.1,,,"FN0466,NT0064,SC0056,NT9999",51
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Virginia,48,48,"Beds per 1,000 resident population",1,2020,12,2.1,,,"FN0466,NT0064,SC0056,NT9999",51
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Washington,49,49,"Beds per 1,000 resident population",1,1980,1,3.1,,,"FN0466,NT0064,SC0056,NT9999",53
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Washington,49,49,"Beds per 1,000 resident population",1,1990,2,2.5,,,"FN0466,NT0064,SC0056,NT9999",53
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Washington,49,49,"Beds per 1,000 resident population",1,2000,3,1.9,,,"FN0466,NT0064,SC0056,NT9999",53
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Washington,49,49,"Beds per 1,000 resident population",1,2009,4,1.7,,,"FN0466,NT0064,SC0056,NT9999",53
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Washington,49,49,"Beds per 1,000 resident population",1,2010,5,1.7,,,"FN0466,NT0064,SC0056,NT9999",53
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Washington,49,49,"Beds per 1,000 resident population",1,2014,6,1.7,,,"FN0466,NT0064,SC0056,NT9999",53
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Washington,49,49,"Beds per 1,000 resident population",1,2015,7,1.7,,,"FN0466,NT0064,SC0056,NT9999",53
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Washington,49,49,"Beds per 1,000 resident population",1,2016,8,1.7,,,"FN0466,NT0064,SC0056,NT9999",53
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Washington,49,49,"Beds per 1,000 resident population",1,2017,9,1.7,,,"FN0466,NT0064,SC0056,NT9999",53
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Washington,49,49,"Beds per 1,000 resident population",1,2018,10,1.7,,,"FN0466,NT0064,SC0056,NT9999",53
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Washington,49,49,"Beds per 1,000 resident population",1,2019,11,1.7,,,"FN0466,NT0064,SC0056,NT9999",53
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Washington,49,49,"Beds per 1,000 resident population",1,2020,12,1.6,,,"FN0466,NT0064,SC0056,NT9999",53
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,West Virginia,50,50,"Beds per 1,000 resident population",1,1980,1,5.5,,,"FN0466,NT0064,SC0056,NT9999",54
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,West Virginia,50,50,"Beds per 1,000 resident population",1,1990,2,4.7,,,"FN0466,NT0064,SC0056,NT9999",54
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,West Virginia,50,50,"Beds per 1,000 resident population",1,2000,3,4.4,,,"FN0466,NT0064,SC0056,NT9999",54
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,West Virginia,50,50,"Beds per 1,000 resident population",1,2009,4,4.1,,,"FN0466,NT0064,SC0056,NT9999",54
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,West Virginia,50,50,"Beds per 1,000 resident population",1,2010,5,4,,,"FN0466,NT0064,SC0056,NT9999",54
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,West Virginia,50,50,"Beds per 1,000 resident population",1,2014,6,3.7,,,"FN0466,NT0064,SC0056,NT9999",54
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,West Virginia,50,50,"Beds per 1,000 resident population",1,2015,7,3.7,,,"FN0466,NT0064,SC0056,NT9999",54
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,West Virginia,50,50,"Beds per 1,000 resident population",1,2016,8,3.8,,,"FN0466,NT0064,SC0056,NT9999",54
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,West Virginia,50,50,"Beds per 1,000 resident population",1,2017,9,3.9,,,"FN0466,NT0064,SC0056,NT9999",54
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,West Virginia,50,50,"Beds per 1,000 resident population",1,2018,10,3.8,,,"FN0466,NT0064,SC0056,NT9999",54
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,West Virginia,50,50,"Beds per 1,000 resident population",1,2019,11,3.6,,,"FN0466,NT0064,SC0056,NT9999",54
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,West Virginia,50,50,"Beds per 1,000 resident population",1,2020,12,3.5,,,"FN0466,NT0064,SC0056,NT9999",54
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Wisconsin,51,51,"Beds per 1,000 resident population",1,1980,1,4.9,,,"FN0466,NT0064,SC0056,NT9999",55
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Wisconsin,51,51,"Beds per 1,000 resident population",1,1990,2,3.8,,,"FN0466,NT0064,SC0056,NT9999",55
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Wisconsin,51,51,"Beds per 1,000 resident population",1,2000,3,2.9,,,"FN0466,NT0064,SC0056,NT9999",55
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Wisconsin,51,51,"Beds per 1,000 resident population",1,2009,4,2.4,,,"FN0466,NT0064,SC0056,NT9999",55
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Wisconsin,51,51,"Beds per 1,000 resident population",1,2010,5,2.4,,,"FN0466,NT0064,SC0056,NT9999",55
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Wisconsin,51,51,"Beds per 1,000 resident population",1,2014,6,2.2,,,"FN0466,NT0064,SC0056,NT9999",55
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Wisconsin,51,51,"Beds per 1,000 resident population",1,2015,7,2.2,,,"FN0466,NT0064,SC0056,NT9999",55
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Wisconsin,51,51,"Beds per 1,000 resident population",1,2016,8,2.1,,,"FN0466,NT0064,SC0056,NT9999",55
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Wisconsin,51,51,"Beds per 1,000 resident population",1,2017,9,2.1,,,"FN0466,NT0064,SC0056,NT9999",55
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Wisconsin,51,51,"Beds per 1,000 resident population",1,2018,10,2.1,,,"FN0466,NT0064,SC0056,NT9999",55
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Wisconsin,51,51,"Beds per 1,000 resident population",1,2019,11,2,,,"FN0466,NT0064,SC0056,NT9999",55
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Wisconsin,51,51,"Beds per 1,000 resident population",1,2020,12,2.1,,,"FN0466,NT0064,SC0056,NT9999",55
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Wyoming,52,52,"Beds per 1,000 resident population",1,1980,1,3.6,,,"FN0466,NT0064,SC0056,NT9999",56
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Wyoming,52,52,"Beds per 1,000 resident population",1,1990,2,4.8,,,"FN0466,NT0064,SC0056,NT9999",56
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Wyoming,52,52,"Beds per 1,000 resident population",1,2000,3,3.9,,,"FN0466,NT0064,SC0056,NT9999",56
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Wyoming,52,52,"Beds per 1,000 resident population",1,2009,4,3.7,,,"FN0466,NT0064,SC0056,NT9999",56
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Wyoming,52,52,"Beds per 1,000 resident population",1,2010,5,3.6,,,"FN0466,NT0064,SC0056,NT9999",56
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Wyoming,52,52,"Beds per 1,000 resident population",1,2014,6,3.1,,,"FN0466,NT0064,SC0056,NT9999",56
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Wyoming,52,52,"Beds per 1,000 resident population",1,2015,7,3.1,,,"FN0466,NT0064,SC0056,NT9999",56
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Wyoming,52,52,"Beds per 1,000 resident population",1,2016,8,3.2,,,"FN0466,NT0064,SC0056,NT9999",56
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Wyoming,52,52,"Beds per 1,000 resident population",1,2017,9,3.4,,,"FN0466,NT0064,SC0056,NT9999",56
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Wyoming,52,52,"Beds per 1,000 resident population",1,2018,10,3.5,,,"FN0466,NT0064,SC0056,NT9999",56
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Wyoming,52,52,"Beds per 1,000 resident population",1,2019,11,3.4,,,"FN0466,NT0064,SC0056,NT9999",56
+Community hospital beds,,,Geographic Characteristic,2,State,1,1,Wyoming,52,52,"Beds per 1,000 resident population",1,2020,12,3.3,,,"FN0466,NT0064,SC0056,NT9999",56
