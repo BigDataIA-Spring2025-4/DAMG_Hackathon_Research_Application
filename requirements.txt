@@ -14,3 +14,4 @@ seaborn
 tavily-python
 smolagents
 litellm
+pypdf
