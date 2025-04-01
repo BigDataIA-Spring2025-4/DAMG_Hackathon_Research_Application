@@ -119,6 +119,7 @@ if __name__ == "__main__":
         - Use all three tools avaiable to build additional context and final report generation
         - Do not generate any data use only the mentioned csv file
         - Try and relate the data to the state and how it affected the state
+        - 
 
     Parameters:
         hospital_beds (str): Summary of hospital bed trends.
