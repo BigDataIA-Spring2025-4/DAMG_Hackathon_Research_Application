@@ -14,3 +14,9 @@ This project combines several key technologies to analyze US healthcare trends, 
 - PDF extraction capabilities for analyzing research documents
 - Web search functionality through Tavily API for current research
 - Report generation that combines historical trends with pandemic impact analysis
+
+Application Links:
+
+Application: [Streamlit Deployment](https://damghackathonresearchapplication-mkyrzysrqdj5b54updx6bz.streamlit.app)
+
+Backend API: [Google Cloud Run](https://fastapi-service-vclcprawja-ue.a.run.app)
