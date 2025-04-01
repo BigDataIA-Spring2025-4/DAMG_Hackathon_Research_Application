@@ -5,8 +5,11 @@ from io import StringIO
 from dotenv import load_dotenv
 load_dotenv()
 
-def trigger_all_agents():
-    exit()
+# API_URL = os.getenv("API_URL", "http://127.0.0.1:8000")
+API_URL = "http://127.0.0.1:8000"
+
+# def trigger_all_agents():
+#     exit()
 
 def main():    
     st.title("Hospitalization Trends in the United States: A Multi-State Analysis (2000-2023)")
@@ -15,9 +18,14 @@ def main():
     state = st.sidebar.selectbox("Select Your State:", ["Massachusetts","Illinois"])
     tigger = st.sidebar.button("Begin Analysis", use_container_width=True, icon = "📄")
     st.header(f"Selected State : {state}")
-    if tigger == "Begin Analysis":
-        trigger_all_agents()
-
+    if tigger:
+        with st.spinner("Thinking..."):
+            response = requests.post(f"{API_URL}/generate_research", json={"state": state})
+            if response.status_code == 200:
+                answer = response.json()["answer"]
+                st.markdown(answer)
+            else:
+                st.error(f"Error: {response.text}")
         
 if __name__ == "__main__":
 # Set page configuration

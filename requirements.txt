@@ -1,0 +1,16 @@
+pydantic
+fastapi
+uvicorn
+requests
+python-dotenv
+pandas
+numpy
+openai
+snowflake-connector-python
+typing-extensions
+plotly
+matplotlib
+seaborn
+tavily-python
+smolagents
+litellm
