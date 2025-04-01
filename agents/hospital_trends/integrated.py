@@ -17,7 +17,8 @@ TAVILY_API_KEY = os.getenv("TAVILY_API_KEY")
 tavily_client = TavilyClient(TAVILY_API_KEY)
 
 # Define directories
-DATA_DIRECTORY = "./agents/hospital_trends/data"
+DATA_DIRECTORY = ".\\agents\\hospital_trends\\data"
+EMERGING_DATA_DIRECTORY = ".\\agents\\emerging_challenges\\data"
 
 # ---- HELPER FUNCTIONS ----
 
@@ -74,7 +75,7 @@ def analyze_hospital_beds() -> str:
 @tool
 def analyze_emergency_visits() -> str:
     """Analyzes emergency department visits from a PDF file."""
-    file_path = os.path.join(DATA_DIRECTORY, "EmergencyDepartment_Visits.pdf")
+    file_path = os.path.join(EMERGING_DATA_DIRECTORY, "EmergencyDepartment_Visits.pdf")
 
     if not os.path.exists(file_path):
         return f"Error: File '{file_path}' not found."
@@ -705,7 +706,11 @@ def generate_integrated_report(state="California"):
     - Ensure seamless transitions between all sections
     """)
     
-    # [rest of the code remains the same]
+    print("\n🔍 **Final Integrated Report:**")
+    
+    # Save the report to a markdown file
+    with open(f"{state}_integrated_healthcare_report.md", "w") as file:
+        file.write(str(integrated_report))
     
     return integrated_report
 
