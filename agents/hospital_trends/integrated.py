@@ -385,7 +385,7 @@ def fetch_web_content(url: list) -> str:
     
 
 ### 3️⃣ Agent: Extract Hospital Utilization Data (PDF)
-DATA_DIRECTORY="./agents/emerging_challenges/data"
+DATA_DIRECTORY=".\\agents\\emerging_challenges\\data"
 @tool
 def extract_emergingchallenges_pdf() -> str:
     """
@@ -433,19 +433,20 @@ def run_covid_analysis(state="Illinois"):
             fetch_web_content
         ],
         model=model,
-        max_steps=20,
+        max_steps=25, # Increased from 20 to allow for more comprehensive analysis
         additional_authorized_imports=['pandas', 'json', 'requests', 'matplotlib', 'seaborn'],
         verbosity_level=2,
     )
     
     # Run the agent with a comprehensive prompt
     agent_output = agent.run(f"""
-    You are a COVID-19 data analyst tasked with generating a COMPREHENSIVE and COMPLETE report on how the COVID-19 pandemic transformed healthcare in {state}.
+    You are a COVID-19 data analyst tasked with generating a COMPREHENSIVE and COMPLETE report on how the COVID-19 pandemic transformed healthcare in {state}. This will be part of a larger 20-page report.
 
     CRITICAL GUIDELINES:
     - You MUST produce a complete markdown report with ALL sections fully developed
-    - Each section should be detailed and evidence-based (minimum 2-3 paragraphs per section)
+    - Each section should be detailed and evidence-based (minimum 4-5 substantial paragraphs per section - At least 1500 words)
     - DO NOT omit or abbreviate any sections
+    - Include detailed quantitative analysis where possible
     - Your final output MUST be a COMPLETE REPORT, not notes or partial analysis
     - Only retry a tool call at most 3 times. If still not resolved, continue with existing data
     - Process data one section at a time to minimize token usage
@@ -455,13 +456,14 @@ def run_covid_analysis(state="Illinois"):
     1. EXECUTIVE SUMMARY & INTRODUCTION:
        - Start by querying basic COVID data for context: query_covid_cases_by_year("{state}")
        - Search the web for an overview: web_search("{state} COVID-19 healthcare impact overview")
-       - Write a comprehensive Executive Summary and Introduction that contextualizes the entire report
+       - Write a comprehensive Executive Summary (1 full page) and Introduction (1-2 full pages) that contextualizes the entire report
        - ENSURE THIS SECTION IS COMPLETE before moving to the next section
 
     2. PANDEMIC TIMELINE AND HEALTHCARE RESPONSE:
        - Thoroughly analyze the COVID cases/deaths data
        - Create a detailed timeline with key events and healthcare system responses
        - Identify turning points and policy changes
+       - Include at least 5 paragraphs with specific data points and dates
        - ENSURE THIS SECTION IS COMPLETE before moving to the next section
 
     3. COMPARATIVE ANALYSIS:
@@ -469,24 +471,28 @@ def run_covid_analysis(state="Illinois"):
        - Focus on emergency department and physician visits data
        - Search for additional context: web_search("{state} pre-pandemic vs pandemic healthcare expenditure")
        - Create detailed comparative analysis with pre-pandemic baseline vs. pandemic changes
+       - Include at least 4-5 paragraphs with quantitative comparisons
        - ENSURE THIS SECTION IS COMPLETE before moving to the next section
 
     4. SOCIAL DETERMINANTS AND COVID-19 IMPACT:
        - Analyze the delayed healthcare data in depth
        - Search for relevant information: web_search("{state} social determinants health COVID hotspots")
        - Identify vulnerable populations and geographic/demographic patterns
+       - Include at least 4-5 paragraphs discussing disparities and social factors
        - ENSURE THIS SECTION IS COMPLETE before moving to the next section
 
     5. HEALTHCARE PROVIDER AVAILABILITY:
        - Query vaccination provider data: query_vaccine_providers("{state}")
        - Search for context: web_search("{state} healthcare provider availability COVID impact")
        - Analyze provider distribution, shortages, and adaptations
+       - Include at least 4-5 paragraphs with specific provider metrics and distribution data
        - ENSURE THIS SECTION IS COMPLETE before moving to the next section
 
     6. LONG-TERM IMPLICATIONS:
        - Search for forecasting information: web_search("{state} long-term effects COVID healthcare access")
        - Analyze potential lasting changes to healthcare delivery and access
        - Discuss policy implications and system transformations
+       - Include at least 4-5 paragraphs with detailed projections and industry analysis
        - ENSURE THIS SECTION IS COMPLETE before moving to the next section
 
     THE FINAL REPORT MUST FOLLOW THIS EXACT STRUCTURE:
@@ -494,33 +500,32 @@ def run_covid_analysis(state="Illinois"):
     # COVID-19 Impact on Healthcare in {state}: Comprehensive Analysis
     
     ## Executive Summary
-    [Detailed overview of key findings - minimum 1 full paragraph]
+    [Detailed overview of key findings - minimum 4-5 paragraphs, equivalent to 1 full page]
     
     ## Introduction
-    [Context of COVID-19 in {state}, scope of the report - minimum 2-3 paragraphs]
+    [Context of COVID-19 in {state}, scope of the report - minimum 4-5 paragraphs, equivalent to 1-2 full pages]
     
     ## Pandemic Timeline and Healthcare Response
-    [Detailed timeline using cases/deaths data - minimum 2-3 paragraphs]
+    [Detailed timeline using cases/deaths data - minimum 4-5 substantial paragraphs]
     
     ## Comparative Analysis: Pre-Pandemic vs. Pandemic Healthcare
-    [Thorough comparison of healthcare metrics - minimum 2-3 paragraphs]
+    [Thorough comparison of healthcare metrics - minimum 4-5 substantial paragraphs]
     
     ## Social Determinants and COVID-19 Impact
-    [Detailed analysis of vulnerable populations - minimum 2-3 paragraphs]
+    [Detailed analysis of vulnerable populations - minimum 4-5 substantial paragraphs]
     
     ## Healthcare Provider Availability
-    [Comprehensive analysis of provider distribution and access - minimum 2-3 paragraphs]
+    [Comprehensive analysis of provider distribution and access - minimum 4-5 substantial paragraphs]
     
     ## Long-Term Implications
-    [In-depth forecast of healthcare transformation - minimum 2-3 paragraphs]
+    [In-depth forecast of healthcare transformation - minimum 4-5 substantial paragraphs]
     
-    IMPORTANT: Your output MUST be a COMPLETE REPORT with all sections fully developed. Do not leave any sections incomplete or with placeholder text. The final report should be comprehensive (equivalent to 2-3 pages), evidence-based, properly formatted in markdown, and suitable for presentation to healthcare policymakers.
+    IMPORTANT: Your output MUST be a COMPLETE REPORT with all sections fully developed. Do not leave any sections incomplete or with placeholder text. The final report should be comprehensive (equivalent to 9-10 pages), evidence-based, properly formatted in markdown, and suitable for presentation to healthcare policymakers.
     """)
     
     return agent_output
 
-# ---- INTEGRATED REPORT GENERATION ----
-
+# Update the historical healthcare context prompt to generate more comprehensive content
 def generate_integrated_report(state="California"):
     """
     Generates a comprehensive integrated report that combines COVID-19 impact analysis
@@ -539,7 +544,6 @@ def generate_integrated_report(state="California"):
     # First, run COVID-19 analysis
     print("\n🔍 **Running COVID-19 Analysis**")
     covid_analysis_result = run_covid_analysis(state)
-
     emergingchallenges_pdf_agent = ToolCallingAgent(tools=[extract_emergingchallenges_pdf], model=model,name="emergingchallenges_pdf_agent",description="Analyzes potential isssues for emerging chanllenges in the health sector for US")
     
     web_search_agent = ToolCallingAgent(
@@ -586,10 +590,10 @@ def generate_integrated_report(state="California"):
         additional_authorized_imports=["time", "numpy", "pandas", "pypdf", "os"]
     )
     
-    # Run the historical context agent to create the historical healthcare context section
+    # Run the historical context agent to create a more comprehensive historical healthcare context section
     print("\n🔍 **Generating Historical Healthcare Context Section**")
     healthcare_emerging_context_section = healthcare_emerging_agent.run(f"""
-    You are an expert healthcare data analyst tasked with creating a detailed section on historical healthcare system data for {state}.
+    You are an expert healthcare data analyst tasked with creating a detailed section on historical healthcare system data for {state}. This will form a critical part of a 20-page comprehensive report.
     
     You will have access to:
     1. Historical hospital bed availability trends (via hospital_beds_agent)
@@ -602,59 +606,106 @@ def generate_integrated_report(state="California"):
     1. First, use hospital_beds_agent to analyze hospital bed availability trends
     2. Next, use emergency_visits_agent to analyze emergency department visit patterns
     3. Then, use hospital_utilization_agent to analyze hospital utilization research findings
-    4. Then use emergingchallenges_pdf_agent, web_search_agent and fetch_web_content_agent agent to research emerging challenges in healthcare
-    5. Create a detailed "Historical Healthcare System Context" section that synthesizes findings from steps 1-4
+    4. Then use emergingchallenges_pdf_agent to research emerging challenges in healthcare
+    5. Use web_search_agent with the query "{state} healthcare system historical trends and challenges" to find state-specific information
+    6. Use fetch_web_content_agent to get more detail on the most relevant search results
     
-    Your output should be formatted as a markdown section with the headers "## Historical Healthcare System Context" and
-    '## Emerging challenges'
-    containing at least 2-3 well-developed paragraphs for each headings by summarizing contents.
+    Create TWO detailed sections:
+    
+    1. A "Historical Healthcare System Context" section that synthesizes findings from steps 1-3
+       - Include detailed analysis of hospital bed trends over time
+       - Analyze emergency department utilization patterns
+       - Examine overall hospital utilization trends
+       - Discuss how these trends relate specifically to {state}
+       - Minimum 4-5 substantial paragraphs (equivalent to 3-4 pages - at least 3000 words)
+    
+    2. An "Emerging Challenges" section that synthesizes findings from steps 4-6
+       - Identify key emerging challenges in healthcare delivery
+       - Analyze staffing shortages and their impacts
+       - Examine potential hospital bed shortages
+       - Discuss how these challenges specifically affect {state}
+       - Minimum 4-5 substantial paragraphs (equivalent to 3 pages - - at least 2500 words)
+    
+    Your output should be formatted as markdown sections with the headers:
+    "## Historical Healthcare System Context"
+    "## Emerging Challenges"
+    
+    Each section should be extremely comprehensive, data-driven, and equivalent to 3-4 pages of a report.
     """)
-    
+
     # Create the final agent to combine results and add recommendations and conclusion
     final_report_agent = CodeAgent(
         tools=[],
         model=model,
         additional_authorized_imports=["time", "numpy", "pandas"]
     )
-    
-    # Run the final report agent to create the integrated report with recommendations and conclusion
+
+    # Update the final report integration prompt to ensure correct structure and comprehensive recommendations
     print("\n🔍 **Generating Final Integrated Report with Recommendations and Conclusion**")
     integrated_report = final_report_agent.run(f"""
-    You are an expert healthcare data analyst tasked with integrating a COVID-19 impact analysis with historical healthcare system data for {state}, and adding comprehensive recommendations and conclusion sections.
+    You are an expert healthcare data analyst tasked with integrating a COVID-19 impact analysis with historical healthcare system data for {state}, and adding comprehensive recommendations and conclusion sections. The final report must be equivalent to a 20-page document.
     
     You have two main inputs:
-    1. The COVID-19 analysis (without recommendations and conclusion)
-    2. The Historical Healthcare System and Emerging challenges context section
+    1. The COVID-19 analysis (approximately 9-10 pages)
+    2. The Historical Healthcare System and Emerging Challenges context sections (approximately 6-8 pages)
     
     Your task is to:
-    1. Combine these inputs into one cohesive report
-    2. Afterwards, Add two new sections: "Recommendations" and "Conclusion"
+    1. Combine these inputs into one cohesive report following the EXACT order specified below
+    2. Add two new comprehensive sections: "Recommendations" and "Conclusion"
     
-    Follow these steps carefully:
+    CRITICAL: Follow this EXACT structure in your final report (section names must match exactly):
     
-    1. Start with the existing COVID-19 analysis exactly as provided
-    2. Insert the Historical Healthcare System and Emerging Challenges Context section immediately after the "Long-Term Implications" section
-    4. Create a comprehensive "Recommendations" section (at least 2-3 detailed paragraphs) based on insights from both inputs
-    5. Create a thorough "Conclusion" section (at least 1-2 detailed paragraphs) that summarizes the key findings
+    # COVID-19 Impact on Healthcare in {state}: Comprehensive Analysis
+    
+    ## Executive Summary
+    [Keep this exactly as provided in the COVID-19 analysis]
+    
+    ## Introduction
+    [Keep this exactly as provided in the COVID-19 analysis]
+    
+    ## Pandemic Timeline and Healthcare Response
+    [Keep this exactly as provided in the COVID-19 analysis]
+    
+    ## Comparative Analysis: Pre-Pandemic vs. Pandemic Healthcare
+    [Keep this exactly as provided in the COVID-19 analysis]
+    
+    ## Social Determinants and COVID-19 Impact
+    [Keep this exactly as provided in the COVID-19 analysis]
+    
+    ## Healthcare Provider Availability
+    [Keep this exactly as provided in the COVID-19 analysis]
+    
+    ## Long-Term Implications
+    [Keep this exactly as provided in the COVID-19 analysis]
+    
+    ## Historical Healthcare System Context
+    [Insert this content exactly as provided in the historical context section]
+    
+    ## Emerging Challenges
+    [Insert this content exactly as provided in the emerging challenges section]
+    
+    ## Recommendations
+    [Create a new comprehensive section with detailed, actionable recommendations based on all previous sections. This should be a minimum of 5-6 substantial paragraphs, equivalent to 2-3 pages.]
+    
+    ## Conclusion
+    [Create a new comprehensive conclusion that synthesizes all key findings and reinforces the most critical points. This should be a minimum of 3-4 substantial paragraphs, equivalent to 1-2 pages.]
     
     The COVID-19 analysis is:
     {covid_analysis_result}
     
-    The Historical Healthcare System and emerging challenges Context section is:
+    The Historical Healthcare System and Emerging Challenges Context sections are:
     {healthcare_emerging_context_section}
     
-    Your final report should maintain all the headings and content from both inputs, with your new Recommendations 
-    and Conclusion sections added at the end. Format everything in proper markdown.
+    IMPORTANT GUIDELINES:
+    - Maintain ALL section headings exactly as specified
+    - Do not modify the content of the provided sections
+    - Ensure your new Recommendations and Conclusion sections are comprehensive and data-driven
+    - Format everything in proper markdown with clear heading hierarchy
+    - Your final report should be equivalent to approximately 20 pages (Executive Summary through Conclusion)
+    - Ensure seamless transitions between all sections
     """)
     
-    print("\n🔍 **Final Integrated Report:**")
-    print(integrated_report)
-    
-    # Save the report to a markdown file
-    with open(f"{state}_integrated_healthcare_report.md", "w") as file:
-        file.write(str(integrated_report))
-    
-    print(f"\nReport saved to {state}_integrated_healthcare_report.md")
+    # [rest of the code remains the same]
     
     return integrated_report
 

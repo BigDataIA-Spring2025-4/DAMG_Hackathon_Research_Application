@@ -15,7 +15,15 @@ def main():
     st.title("Hospitalization Trends in the United States: A Multi-State Analysis (2000-2023)")
     
     st.sidebar.header("Main Menu") 
-    state = st.sidebar.selectbox("Select Your State:", ["Massachusetts","Illinois"])
+    state_list = [
+    "Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware", "Florida", 
+    "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", 
+    "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", 
+    "Nevada", "New Hampshire", "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio", 
+    "Oklahoma", "Oregon", "Pennsylvania", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", 
+    "Utah", "Vermont", "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming"
+]
+    state = st.sidebar.selectbox("Select Your State:", state_list)
     tigger = st.sidebar.button("Begin Analysis", use_container_width=True, icon = "📄")
     st.header(f"Selected State : {state}")
     if tigger:
